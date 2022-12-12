@@ -1,0 +1,10 @@
+Protocolo de criação do complexo prteina-ligante após ancoramento (docagem) - Autodock Tools
+
+1. File -> Read molecule -> proteína.pdbqt
+2. Analyze -> Docking -> Open Autodock Vina result -> ligante_out.pdbqt -> Multiple molecules
+3. Apagar os moldelos (2 até o fim)
+4. Deixar somente a proteína e o modelo 1
+5. Clica na proteina, clicla no modelo com a tecla CTRL os dois ficam com fundos amarelos
+6. Clica com o botão direito na opção Current Selction e depois escolhe Split, deixa o nome e Ok
+7. File Save -> Write PDB
+8. Colocar o nome proteina_ligante_docking.pdb

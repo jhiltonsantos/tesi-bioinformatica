@@ -1,4 +1,32 @@
 ATOM   1049  O   ASN A 208      57.488 183.942 169.554  1.00330.74           O
 
-./vina --receptor prot.pdbqt --ligand lig.pdbqt --center_x 11.390 --center_y 27.391 --center_z 3.408 --size_x 22.5 --size_y 22.5 --size_z 22.5 --num_modes 50 --exhaustiveness 24 --out ligand_out.pdbqt
+./vina --receptor prot.pdbqt --ligand lig.pdbqt --center_x 57.488 --center_y 183.942 --center_z 169.554 --size_x 22.5 --size_y 22.5 --size_z 22.5 --num_modes 50 --exhaustiveness 24 --out ligand_out.pdbqt
 
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -5.1      0.000      0.000
+   2         -4.9      2.507      4.776
+   3         -4.8     11.231     12.800
+   4         -4.8     10.089     12.443
+   5         -4.7     11.343     12.987
+   6         -4.7     11.577     13.591
+   7         -4.6      9.794     11.546
+   8         -4.5     10.897     13.303
+   9         -4.5     11.904     14.356
+  10         -4.5     12.323     14.226
+  11         -4.5     12.210     13.519
+  12         -4.4     12.252     13.517
+  13         -4.4     12.781     15.284
+  14         -4.3     15.194     15.616
+  15         -4.3     13.807     14.864
+  16         -4.3     10.320     13.177
+  17         -4.2     11.509     13.372
+  18         -4.1     15.239     16.252
+  19         -4.1     11.305     13.060
+  20         -4.1     12.917     14.434
+Writing output ... done.
