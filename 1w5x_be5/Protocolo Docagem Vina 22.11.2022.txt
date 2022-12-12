@@ -1,0 +1,43 @@
+﻿Docagem (Autodock Tools e Autodock Vina, versões mais atualizadas)
+
+Observação 1 : retirar as águas e ions do arquivo da proteína.
+
+1. Descobrir a região do sítio ativo - Asn208 (cod PDB: 5i6z) Atom O 2139 x=57.488 y=183.942 z=169.554  
+2. Isolar o ligante do arquivo baixado do PDB.
+3. Isolar a proteína (cadeia A).
+4. Fazer a protonação da proteína
+https://server.poissonboltzmann.org/pdb2pqr
+5 - transformar o arquivo pqr em pdb (ChimeraX)
+
+Preparar o ligante (Autodock Tools adt)
+1 - ligand - input - open
+2 - edit - hydrogens - add
+3 - edit - charges - compute gasteiger
+4 - edit - hydrogens - merge non-polar
+5 - file - save - write PDBQ (deletar o ligante no Autodock Tools)
+6 - ligand - input - open 
+6 - ligand - output - save as PDBQT (lig.pdbqt)
+
+Preparar a macromolécula (Autodock Tools)
+7 - file - read molecule
+8 - edit - hydrogens - add
+9 - edit - charges - compute gasteiger
+10 - edit - hydrogens - merge non-polar
+11 - file - save - write PDBQ (deletar a proteina no Autodock Tools)
+12 - grid - macromolecule - open (PDBQ yes)
+13 - salva como PDBQT (prot.pdbqt)
+
+Preparar o arquivo config.txt (definir o sítio ativo) e rodar o Autodock Vina (prompt de comando)
+
+receptor = prot.pdbqt
+ligand = lig.pdbqt
+center_x = 57.488
+center_y = 183.942
+center_z = 169.554
+size_x = 22.5
+size_y = 22.5
+size_z = 22.5
+num_modes = 50
+exhaustiveness = 24
+out = ligand_out.pdbqt
+

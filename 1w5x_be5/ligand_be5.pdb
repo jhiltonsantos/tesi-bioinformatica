@@ -1,0 +1,642 @@
+HEADER    HYDROLASE/HYDROLASE INHIBITOR           10-AUG-04   1W5X              
+TITLE     HIV-1 PROTEASE IN COMPLEX WITH FLUORO SUBSTITUTED DIOL-BASED C2-      
+TITLE    2 SYMMETRIC INHIBITOR                                                  
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: POL POLYPROTEIN;                                           
+COMPND   3 CHAIN: A, B;                                                         
+COMPND   4 FRAGMENT: RESIDUES 58-167;                                           
+COMPND   5 SYNONYM: HIV-1 PROTEASE, PROTEASE, RETROPEPSIN, REVERSE              
+COMPND   6 TRANSCRIPTASE, RIBONUCLEASE H;                                       
+COMPND   7 EC: 3.4.23.16;                                                       
+COMPND   8 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 ORGANISM_SCIENTIFIC: HUMAN IMMUNODEFICIENCY VIRUS;                   
+SOURCE   3 ORGANISM_COMMON: HIV-1;                                              
+SOURCE   4 ORGANISM_TAXID: 12721;                                               
+SOURCE   5 VARIANT: BH10;                                                       
+SOURCE   6 EXPRESSION_SYSTEM: ESCHERICHIA COLI;                                 
+SOURCE   7 EXPRESSION_SYSTEM_TAXID: 562                                         
+KEYWDS    HYDROLASE/HYDROLASE INHIBITOR, HYDROLASE, DIMER, PROTEIN-INHIBITOR    
+KEYWDS   2 COMPLEX, HYDROLASE-HYDROLASE INHIBITOR COMPLEX                       
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    J.LINDBERG,D.PYRING,S.LOEWGREN,A.ROSENQUIST,G.ZUCCARELLO,             
+AUTHOR   2 I.KVARNSTROEM,H.ZHANG,L.VRANG,B.CLAESSON,A.HALLBERG,B.SAMUELSSON,    
+AUTHOR   3 T.UNGE                                                               
+REVDAT   4   17-JAN-18 1W5X    1       REMARK                                   
+REVDAT   3   24-FEB-09 1W5X    1       VERSN                                    
+REVDAT   2   22-JUL-05 1W5X    1       COMPND REMARK DBREF  SEQRES              
+REVDAT   2 2                   1       HET    FORMUL HELIX  SHEET               
+REVDAT   2 3                   1       SITE   CISPEP ATOM   TER                 
+REVDAT   2 4                   1       HETATM CONECT                            
+REVDAT   1   22-DEC-04 1W5X    0                                                
+JRNL        AUTH   J.LINDBERG,D.PYRING,S.LOEWGREN,A.ROSENQUIST,G.ZUCCARELLO,    
+JRNL        AUTH 2 I.KVARNSTROEM,H.ZHANG,L.VRANG,B.CLAESSON,A.HALLBERG,         
+JRNL        AUTH 3 B.SAMUELSSON,T.UNGE                                          
+JRNL        TITL   SYMMETRIC FLUORO-SUBSTITUTED DIOL-BASED HIV PROTEASE         
+JRNL        TITL 2 INHIBITORS. ORTHO-FLUORINATED AND META-FLUORINATED           
+JRNL        TITL 3 P1/P1'-BENZYLOXY SIDE GROUPS SIGNIFICANTLY IMPROVE THE       
+JRNL        TITL 4 ANTIVIRAL ACTIVITY AND PRESERVE BINDING EFFICACY             
+JRNL        REF    EUR.J.BIOCHEM.                V. 271  4594 2004              
+JRNL        REFN                   ISSN 0014-2956                               
+JRNL        PMID   15560801                                                     
+JRNL        DOI    10.1111/J.1432-1033.2004.04431.X                             
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    1.90 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : CNS 1.1                                              
+REMARK   3   AUTHORS     : BRUNGER,ADAMS,CLORE,DELANO,GROS,GROSSE-              
+REMARK   3               : KUNSTLEVE,JIANG,KUSZEWSKI,NILGES,PANNU,              
+REMARK   3               : READ,RICE,SIMONSON,WARREN                            
+REMARK   3                                                                      
+REMARK   3  REFINEMENT TARGET : NULL                                            
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 1.90                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 24.79                          
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : 0.000                          
+REMARK   3   DATA CUTOFF HIGH         (ABS(F)) : 1203355.820                    
+REMARK   3   DATA CUTOFF LOW          (ABS(F)) : 0.0000                         
+REMARK   3   COMPLETENESS (WORKING+TEST)   (%) : 95.9                           
+REMARK   3   NUMBER OF REFLECTIONS             : 18423                          
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   CROSS-VALIDATION METHOD          : THROUGHOUT                      
+REMARK   3   FREE R VALUE TEST SET SELECTION  : RANDOM                          
+REMARK   3   R VALUE            (WORKING SET) : 0.203                           
+REMARK   3   FREE R VALUE                     : 0.216                           
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : 5.100                           
+REMARK   3   FREE R VALUE TEST SET COUNT      : 944                             
+REMARK   3   ESTIMATED ERROR OF FREE R VALUE  : 0.007                           
+REMARK   3                                                                      
+REMARK   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+REMARK   3   TOTAL NUMBER OF BINS USED           : 6                            
+REMARK   3   BIN RESOLUTION RANGE HIGH       (A) : 1.90                         
+REMARK   3   BIN RESOLUTION RANGE LOW        (A) : 2.02                         
+REMARK   3   BIN COMPLETENESS (WORKING+TEST) (%) : 95.60                        
+REMARK   3   REFLECTIONS IN BIN    (WORKING SET) : 2862                         
+REMARK   3   BIN R VALUE           (WORKING SET) : 0.2370                       
+REMARK   3   BIN FREE R VALUE                    : 0.2800                       
+REMARK   3   BIN FREE R VALUE TEST SET SIZE  (%) : 5.20                         
+REMARK   3   BIN FREE R VALUE TEST SET COUNT     : 156                          
+REMARK   3   ESTIMATED ERROR OF BIN FREE R VALUE : 0.022                        
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   PROTEIN ATOMS            : 1516                                    
+REMARK   3   NUCLEIC ACID ATOMS       : 0                                       
+REMARK   3   HETEROGEN ATOMS          : 52                                      
+REMARK   3   SOLVENT ATOMS            : 122                                     
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : 10.90                          
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : 22.60                          
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : 0.00000                                              
+REMARK   3    B22 (A**2) : 0.00000                                              
+REMARK   3    B33 (A**2) : 0.00000                                              
+REMARK   3    B12 (A**2) : 0.00000                                              
+REMARK   3    B13 (A**2) : 0.00000                                              
+REMARK   3    B23 (A**2) : 0.00000                                              
+REMARK   3                                                                      
+REMARK   3  ESTIMATED COORDINATE ERROR.                                         
+REMARK   3   ESD FROM LUZZATI PLOT        (A) : 0.23                            
+REMARK   3   ESD FROM SIGMAA              (A) : 0.15                            
+REMARK   3   LOW RESOLUTION CUTOFF        (A) : 5.00                            
+REMARK   3                                                                      
+REMARK   3  CROSS-VALIDATED ESTIMATED COORDINATE ERROR.                         
+REMARK   3   ESD FROM C-V LUZZATI PLOT    (A) : 0.25                            
+REMARK   3   ESD FROM C-V SIGMAA          (A) : 0.19                            
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES.                                   
+REMARK   3   BOND LENGTHS                 (A) : 0.006                           
+REMARK   3   BOND ANGLES            (DEGREES) : 1.300                           
+REMARK   3   DIHEDRAL ANGLES        (DEGREES) : 25.00                           
+REMARK   3   IMPROPER ANGLES        (DEGREES) : 0.670                           
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL MODEL : RESTRAINED                                
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.    RMS    SIGMA                
+REMARK   3   MAIN-CHAIN BOND              (A**2) : 1.290 ; 1.500                
+REMARK   3   MAIN-CHAIN ANGLE             (A**2) : 1.970 ; 2.000                
+REMARK   3   SIDE-CHAIN BOND              (A**2) : 2.430 ; 2.000                
+REMARK   3   SIDE-CHAIN ANGLE             (A**2) : 3.750 ; 2.500                
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELING.                                              
+REMARK   3   METHOD USED : FLAT MODEL                                           
+REMARK   3   KSOL        : 0.32                                                 
+REMARK   3   BSOL        : 35.48                                                
+REMARK   3                                                                      
+REMARK   3  NCS MODEL : NULL                                                    
+REMARK   3                                                                      
+REMARK   3  NCS RESTRAINTS.                         RMS   SIGMA/WEIGHT          
+REMARK   3   GROUP  1  POSITIONAL            (A) : NULL  ; NULL                 
+REMARK   3   GROUP  1  B-FACTOR           (A**2) : NULL  ; NULL                 
+REMARK   3                                                                      
+REMARK   3  PARAMETER FILE  1  : PROTEIN_REP.PARAM                              
+REMARK   3  PARAMETER FILE  2  : BED.PAR                                        
+REMARK   3  PARAMETER FILE  3  : WATER_REP.PARAM                                
+REMARK   3  PARAMETER FILE  4  : NULL                                           
+REMARK   3  TOPOLOGY FILE  1   : PROTEIN.TOP                                    
+REMARK   3  TOPOLOGY FILE  2   : BED.TOP                                        
+REMARK   3  TOPOLOGY FILE  3   : NULL                                           
+REMARK   3  TOPOLOGY FILE  4   : NULL                                           
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: NULL                                      
+REMARK   4                                                                      
+REMARK   4 1W5X COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY PDBE ON 10-AUG-04.                  
+REMARK 100 THE DEPOSITION ID IS D_1290020738.                                   
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : NULL                               
+REMARK 200  TEMPERATURE           (KELVIN) : 278.0                              
+REMARK 200  PH                             : NULL                               
+REMARK 200  NUMBER OF CRYSTALS USED        : NULL                               
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : Y                                  
+REMARK 200  RADIATION SOURCE               : MAX II                             
+REMARK 200  BEAMLINE                       : I711                               
+REMARK 200  X-RAY GENERATOR MODEL          : NULL                               
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+REMARK 200  WAVELENGTH OR RANGE        (A) : 0.976                              
+REMARK 200  MONOCHROMATOR                  : NULL                               
+REMARK 200  OPTICS                         : NULL                               
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : NULL                               
+REMARK 200  DETECTOR MANUFACTURER          : NULL                               
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : NULL                               
+REMARK 200  DATA SCALING SOFTWARE          : NULL                               
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : 21258                              
+REMARK 200  RESOLUTION RANGE HIGH      (A) : 1.800                              
+REMARK 200  RESOLUTION RANGE LOW       (A) : 25.000                             
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : 2.000                              
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : 95.8                               
+REMARK 200  DATA REDUNDANCY                : 2.000                              
+REMARK 200  R MERGE                    (I) : 0.05000                            
+REMARK 200  R SYM                      (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : NULL                               
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 1.80                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 1.83                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : NULL                               
+REMARK 200  DATA REDUNDANCY IN SHELL       : NULL                               
+REMARK 200  R MERGE FOR SHELL          (I) : NULL                               
+REMARK 200  R SYM FOR SHELL            (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : NULL                               
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: MOLECULAR REPLACEMENT        
+REMARK 200 SOFTWARE USED: NULL                                                  
+REMARK 200 STARTING MODEL: NULL                                                 
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 49.64                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.44                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: NULL                                     
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: P 21 21 2                        
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X,-Y,Z                                                 
+REMARK 290       3555   -X+1/2,Y+1/2,-Z                                         
+REMARK 290       4555   X+1/2,-Y+1/2,-Z                                         
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   3 -1.000000  0.000000  0.000000       29.23000            
+REMARK 290   SMTRY2   3  0.000000  1.000000  0.000000       43.16000            
+REMARK 290   SMTRY3   3  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   4  1.000000  0.000000  0.000000       29.23000            
+REMARK 290   SMTRY2   4  0.000000 -1.000000  0.000000       43.16000            
+REMARK 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: DIMERIC                           
+REMARK 350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: DIMERIC                    
+REMARK 350 SOFTWARE USED: PQS                                                   
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B                                  
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 465                                                                      
+REMARK 465 MISSING RESIDUES                                                     
+REMARK 465 THE FOLLOWING RESIDUES WERE NOT LOCATED IN THE                       
+REMARK 465 EXPERIMENT. (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 465 IDENTIFIER; SSSEQ=SEQUENCE NUMBER; I=INSERTION CODE.)                
+REMARK 465                                                                      
+REMARK 465   M RES C SSSEQI                                                     
+REMARK 465     ALA A   -10                                                      
+REMARK 465     ASP A    -9                                                      
+REMARK 465     ARG A    -8                                                      
+REMARK 465     GLN A    -7                                                      
+REMARK 465     GLY A    -6                                                      
+REMARK 465     THR A    -5                                                      
+REMARK 465     VAL A    -4                                                      
+REMARK 465     SER A    -3                                                      
+REMARK 465     PHE A    -2                                                      
+REMARK 465     ASN A    -1                                                      
+REMARK 465     PHE A     0                                                      
+REMARK 465     ALA B   -10                                                      
+REMARK 465     ASP B    -9                                                      
+REMARK 465     ARG B    -8                                                      
+REMARK 465     GLN B    -7                                                      
+REMARK 465     GLY B    -6                                                      
+REMARK 465     THR B    -5                                                      
+REMARK 465     VAL B    -4                                                      
+REMARK 465     SER B    -3                                                      
+REMARK 465     PHE B    -2                                                      
+REMARK 465     ASN B    -1                                                      
+REMARK 465     PHE B     0                                                      
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: TORSION ANGLES                                             
+REMARK 500                                                                      
+REMARK 500 TORSION ANGLES OUTSIDE THE EXPECTED RAMACHANDRAN REGIONS:            
+REMARK 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;               
+REMARK 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)                    
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES: GJ KLEYWEGT AND TA JONES (1996). PHI/PSI-           
+REMARK 500 CHOLOGY: RAMACHANDRAN REVISITED. STRUCTURE 4, 1395 - 1400            
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI        PSI       PHI                                   
+REMARK 500    GLU B  35      127.23    -38.89                                   
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 700                                                                      
+REMARK 700 SHEET                                                                
+REMARK 700 DETERMINATION METHOD: DSSP                                           
+REMARK 700 THE SHEETS PRESENTED AS "AB BA" IN EACH CHAIN ON SHEET RECORDS       
+REMARK 700 BELOW ARE ACTUALLY 7-STRANDED BARRELS REPRESENTED BY                 
+REMARK 700 8-STRANDED SHEETS IN WHICH THE FIRST AND LAST STRANDS                
+REMARK 700 ARE IDENTICAL.                                                       
+REMARK 800                                                                      
+REMARK 800 SITE                                                                 
+REMARK 800 SITE_IDENTIFIER: AC1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE BE5 A 501                 
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 1AJV   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE CYCLIC SULFAMIDE INHIBITOR AHA006 
+REMARK 900 RELATED ID: 1AJX   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE CYCLIC UREA INHIBITOR AHA001      
+REMARK 900 RELATED ID: 1AXA   RELATED DB: PDB                                   
+REMARK 900 ACTIVE-SITE MOBILITY IN HUMAN IMMUNODEFICIENCY VIRUS TYPE 1          
+REMARK 900 PROTEASE AS DEMONSTRATED BY CRYSTAL STRUCTURE OF A28S MUTANT         
+REMARK 900 RELATED ID: 1BQM   RELATED DB: PDB                                   
+REMARK 900 HIV-1 RT/HBY 097                                                     
+REMARK 900 RELATED ID: 1BQN   RELATED DB: PDB                                   
+REMARK 900 TYR 188 LEU HIV-1 RT/HBY 097                                         
+REMARK 900 RELATED ID: 1D4H   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA435                  
+REMARK 900 RELATED ID: 1D4I   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA425                  
+REMARK 900 RELATED ID: 1D4J   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR MSL370                  
+REMARK 900 RELATED ID: 1DLO   RELATED DB: PDB                                   
+REMARK 900 HUMAN IMMUNODEFICIENCY VIRUS TYPE 1                                  
+REMARK 900 RELATED ID: 1DW6   RELATED DB: PDB                                   
+REMARK 900 STRUCTURAL AND KINETIC ANALYSIS OF DRUG RESISTANT MUTANTS OF HIV-1   
+REMARK 900 PROTEASE                                                             
+REMARK 900 RELATED ID: 1EBK   RELATED DB: PDB                                   
+REMARK 900 STRUCTURAL AND KINETIC ANALYSIS OF DRUG RESISTANT MUTANTS OF HIV-1   
+REMARK 900 PROTEASE                                                             
+REMARK 900 RELATED ID: 1EBW   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA322                  
+REMARK 900 RELATED ID: 1EBY   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA369                  
+REMARK 900 RELATED ID: 1EBZ   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA388                  
+REMARK 900 RELATED ID: 1EC0   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA403                  
+REMARK 900 RELATED ID: 1EC1   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA409                  
+REMARK 900 RELATED ID: 1EC2   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR BEA428                  
+REMARK 900 RELATED ID: 1EC3   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH THE INHIBITOR MSA367                  
+REMARK 900 RELATED ID: 1EET   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITH THE INHIBITOR MSC204     
+REMARK 900 RELATED ID: 1HBV   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH SB203238                               
+REMARK 900 RELATED ID: 1HEF   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH SKF 108738 ( HEF)                      
+REMARK 900 RELATED ID: 1HEG   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH SKF 107457 ( HEG)                      
+REMARK 900 RELATED ID: 1HIH   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH INHIBITOR CGP 53820                    
+REMARK 900 RELATED ID: 1HMV   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE                                          
+REMARK 900 RELATED ID: 1HNI   RELATED DB: PDB                                   
+REMARK 900 HUMAN IMMUNODEFICIENCY VIRUS TYPE 1 REVERSE TRANSCRIPTASE (HIV-1RT)  
+REMARK 900 MUTANT WITH CYS 280 REPLACED BY SER (C280S)                          
+REMARK 900 RELATED ID: 1HNV   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE (HIV-1 RT) MUTANT WITH CYS 280 REPLACED  
+REMARK 900 BY SER (C280S )                                                      
+REMARK 900 RELATED ID: 1HOS   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEX WITH SB204144                                 
+REMARK 900 RELATED ID: 1HPS   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH SB206343                               
+REMARK 900 RELATED ID: 1HPZ   RELATED DB: PDB                                   
+REMARK 900 HUMAN IMMUNODEFICIENCY VIRUS TYPE 1                                  
+REMARK 900 RELATED ID: 1HQE   RELATED DB: PDB                                   
+REMARK 900 HUMAN IMMUNODEFICIENCY VIRUS TYPE 1                                  
+REMARK 900 RELATED ID: 1HQU   RELATED DB: PDB                                   
+REMARK 900 HUMAN IMMUNODEFICIENCY VIRUS TYPE 1                                  
+REMARK 900 RELATED ID: 1HRH   RELATED DB: PDB                                   
+REMARK 900 RIBONUCLEASE H DOMAIN OF HIV-1 REVERSE TRANSCRIPTASE                 
+REMARK 900 RELATED ID: 1HTE   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH GR123976                               
+REMARK 900 RELATED ID: 1HTF   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH GR126045                               
+REMARK 900 RELATED ID: 1HTG   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH GR137615                               
+REMARK 900 RELATED ID: 1HVK   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH THE INHIBITOR A76928 (S,S)             
+REMARK 900 RELATED ID: 1HVP   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEX WITH SUBSTRATE ( THEORETICAL MODEL)           
+REMARK 900 RELATED ID: 1HVU   RELATED DB: PDB                                   
+REMARK 900 HUMAN IMMUNODEFICIENCY VIRUS TYPE 1 REVERSE TRANSCRIPTASE COMPLEXED  
+REMARK 900 WITH A 33-BASE NUCLEOTIDE RIBONUCLEIC ACID PSEUDOKNOT                
+REMARK 900 RELATED ID: 1HYS   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE IN COMPLEXWITH A    
+REMARK 900 POLYPURINE TRACT RNA:DNA                                             
+REMARK 900 RELATED ID: 1IKV   RELATED DB: PDB                                   
+REMARK 900 K103N MUTANT HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITHEFIVARENZ    
+REMARK 900 RELATED ID: 1IKW   RELATED DB: PDB                                   
+REMARK 900 WILD TYPE HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITHEFAVIRENZ       
+REMARK 900 RELATED ID: 1IKX   RELATED DB: PDB                                   
+REMARK 900 K103N MUTANT HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITHTHE          
+REMARK 900 INHIBITOR PNU142721                                                  
+REMARK 900 RELATED ID: 1IKY   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITH THE INHIBITORMSC194      
+REMARK 900 RELATED ID: 1J5O   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF MET184ILE MUTANT OF HIV -1                      
+REMARK 900 REVERSETRANSCRIPTASE IN COMPLEX WITH DOUBLE STRANDED DNA TEMPLATE-   
+REMARK 900 PRIMER                                                               
+REMARK 900 RELATED ID: 1MER   RELATED DB: PDB                                   
+REMARK 900 HIV-1 MUTANT (I84V) PROTEASE COMPLEXED WITH DMP450                   
+REMARK 900 RELATED ID: 1MES   RELATED DB: PDB                                   
+REMARK 900 HIV-1 MUTANT (I84V) PROTEASE COMPLEXED WITH DMP323                   
+REMARK 900 RELATED ID: 1MET   RELATED DB: PDB                                   
+REMARK 900 HIV-1 MUTANT (V82F) PROTEASE COMPLEXED WITH DMP323                   
+REMARK 900 RELATED ID: 1MEU   RELATED DB: PDB                                   
+REMARK 900 HIV-1 MUTANT (V82F, I84V) PROTEASE COMPLEXED WITH DMP323             
+REMARK 900 RELATED ID: 1N5Y   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE CROSSLINKED TO POST-TRANSLOCATION AZTMP- 
+REMARK 900 TERMINATED DNA ( COMPLEX P)                                          
+REMARK 900 RELATED ID: 1N6Q   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE CROSSLINKED TO PRE-TRANSLOCATION AZTMP-  
+REMARK 900 TERMINATED DNA ( COMPLEX N)                                          
+REMARK 900 RELATED ID: 1QE1   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF 3TC-RESISTANT M184I MUTANT OF HIV-1 REVERSE     
+REMARK 900 TRANSCRIPTASE                                                        
+REMARK 900 RELATED ID: 1QMC   RELATED DB: PDB                                   
+REMARK 900 C-TERMINAL DNA-BINDING DOMAIN OF HIV-1 INTEGRASE, NMR, 42 STRUCTURES 
+REMARK 900 RELATED ID: 1R0A   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE COVALENTLYTETHERED  
+REMARK 900 TO DNA TEMPLATE -PRIMER SOLVED TO 2.8 ANGSTROMS                      
+REMARK 900 RELATED ID: 1RDH   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE (RIBONUCLEASE H DOMAIN)                  
+REMARK 900 RELATED ID: 1RTD   RELATED DB: PDB                                   
+REMARK 900 STRUCTURE OF A CATALYTIC COMPLEX OF HIV-1 REVERSE TRANSCRIPTASE:     
+REMARK 900 IMPLICATIONS FOR NUCLEOSIDE ANALOG DRUG RESISTANCE                   
+REMARK 900 RELATED ID: 1RVL   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE NON-NUCLEOSIDE BINDING SITE COMPLEXED WITH     
+REMARK 900 ALPHA-APA (R89439) ( THEORETICAL MODEL)                              
+REMARK 900 RELATED ID: 1RVM   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE NON-NUCLEOSIDE BINDING SITE COMPLEXED WITH     
+REMARK 900 HEPT (THEORETICAL MODEL)                                             
+REMARK 900 RELATED ID: 1RVN   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE NON-NUCLEOSIDE BINDING SITE COMPLEXED WITH     
+REMARK 900 PHENYL-ISOINDOLINONE ( THEORETICAL MODEL)                            
+REMARK 900 RELATED ID: 1RVO   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE NON-NUCLEOSIDE BINDING SITE COMPLEXED WITH     
+REMARK 900 NEVIRAPINE (THEORETICAL MODEL)                                       
+REMARK 900 RELATED ID: 1RVP   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE NON-NUCLEOSIDE BINDING SITE COMPLEXED WITH     
+REMARK 900 THIAZOLOISOINDOLINONE ( THEORETICAL MODEL)                           
+REMARK 900 RELATED ID: 1RVQ   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE NON-NUCLEOSIDE BINDING SITE COMPLEXED WITH     
+REMARK 900 TIBO (THEORETICAL MODEL)                                             
+REMARK 900 RELATED ID: 1RVR   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE NON-NUCLEOSIDE BINDING SITE COMPLEXED WITH     
+REMARK 900 IMIDAZODIPYRIDODIAZEPINE (UK -129,485) (THEORETICAL MODEL)           
+REMARK 900 RELATED ID: 1S6P   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF HUMAN IMMUNODEFICIENCY VIRUS TYPE 1REVERSE      
+REMARK 900 TRANSCRIPTASE (RT) IN COMPLEX WITH JANSSEN-R100943                   
+REMARK 900 RELATED ID: 1S6Q   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE (RT) INCOMPLEX      
+REMARK 900 WITH JANSSEN- R147681                                                
+REMARK 900 RELATED ID: 1S9E   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE (RT) INCOMPLEX      
+REMARK 900 WITH JANSSEN- R129385                                                
+REMARK 900 RELATED ID: 1S9G   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE (RT) INCOMPLEX      
+REMARK 900 WITH JANSSEN- R120394.                                               
+REMARK 900 RELATED ID: 1SBG   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE COMPLEXED WITH THE INHIBITOR SB203386                 
+REMARK 900 RELATED ID: 1SUQ   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE (RT) INCOMPLEX      
+REMARK 900 WITH JANSSEN- R185545                                                
+REMARK 900 RELATED ID: 1SV5   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF K103N MUTANT HIV-1 REVERSETRANSCRIPTASE (RT)    
+REMARK 900 IN COMPLEX WITH JANSSEN-R165335                                      
+REMARK 900 RELATED ID: 1T03   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE CROSSLINKED TO TENOFOVIRTERMINATED       
+REMARK 900 TEMPLATE-PRIMER (COMPLEX P)                                          
+REMARK 900 RELATED ID: 1T05   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE CROSSLINKED TO TEMPLATE-PRIMERWITH       
+REMARK 900 TENOFOVIR-DIPHOSPHATE BOUND AS THE INCOMINGNUCLEOTIDE SUBSTRATE      
+REMARK 900 RELATED ID: 1TV6   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE COMPLEXED WITH CP-94,707                 
+REMARK 900 RELATED ID: 1TVR   RELATED DB: PDB                                   
+REMARK 900 HIV-1 RT/9-CL TIBO                                                   
+REMARK 900 RELATED ID: 1UWB   RELATED DB: PDB                                   
+REMARK 900 TYR 181 CYS HIV-1 RT/8-CL TIBO                                       
+REMARK 900 RELATED ID: 1W5V   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH FLUORO SUBSTITUTED DIOL-BASED C2-     
+REMARK 900 SYMMETRIC INHIBITOR                                                  
+REMARK 900 RELATED ID: 1W5W   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH FLUORO SUBSTITUTED DIOL-BASED C2-     
+REMARK 900 SYMMETRIC INHIBITOR                                                  
+REMARK 900 RELATED ID: 1W5Y   RELATED DB: PDB                                   
+REMARK 900 HIV-1 PROTEASE IN COMPLEX WITH FLUORO SUBSTITUTED DIOL-BASED C2-     
+REMARK 900 SYMMETRIC INHIBITOR                                                  
+REMARK 900 RELATED ID: 2HMI   RELATED DB: PDB                                   
+REMARK 900 HIV-1 REVERSE TRANSCRIPTASE COMPLEXED WITH A DOUBLE-STRANDED         
+REMARK 900 DEOXYRIBONUCLEIC ACID AND FAB28                                      
+REMARK 900 RELATED ID: 3HVT   RELATED DB: PDB                                   
+REMARK 900 REVERSE TRANSCRIPTASE                                                
+REMARK 900 RELATED ID: 3TLH   RELATED DB: PDB                                   
+REMARK 900 STRUCTURAL STUDIES OF HIV AND FIV PROTEASES COMPLEXED WITHAN         
+REMARK 900 EFFICIENT INHIBITOR OF FIV PR                                        
+DBREF  1W5X A  -10    99  UNP    P03366   POL_HV1B1       58    167             
+DBREF  1W5X B  -10    99  UNP    P03366   POL_HV1B1       58    167             
+HET    BE5  A 501      52                                                       
+HETNAM     BE5 (2R,3R,4R,5R)-2,5-BIS[(2,3-DIFLUOROBENZYL)OXY]-3,4-              
+HETNAM   2 BE5  DIHYDROXY-N,N'-BIS[(1S,2R)-2-HYDROXY-2,3-DIHYDRO-1H-            
+HETNAM   3 BE5  INDEN-1-YL]HEXANEDIAMIDE                                        
+HETSYN     BE5 HIV-1 INHIBITOR                                                  
+FORMUL   3  BE5    C38 H36 F4 N2 O8                                             
+FORMUL   4  HOH   *122(H2 O)                                                    
+SITE     1 AC1 29 ARG A   8  LEU A  23  ASP A  25  GLY A  27                    
+SITE     2 AC1 29 ALA A  28  ASP A  29  ASP A  30  GLY A  48                    
+SITE     3 AC1 29 GLY A  49  ILE A  50  PRO A  81  VAL A  82                    
+SITE     4 AC1 29 ILE A  84  HOH A2056  ARG B   8  LEU B  23                    
+SITE     5 AC1 29 ASP B  25  GLY B  27  ALA B  28  ASP B  29                    
+SITE     6 AC1 29 ASP B  30  VAL B  32  GLY B  48  GLY B  49                    
+SITE     7 AC1 29 ILE B  50  PRO B  81  VAL B  82  ILE B  84                    
+SITE     8 AC1 29 HOH B2017                                                     
+CRYST1   58.460   86.320   46.570  90.00  90.00  90.00 P 21 21 2     8          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.017085  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.011612  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.021443        0.00000                         
+HETATM    1  C01 BE5 A 501      16.567  21.959   8.756  1.00 24.49           C
+HETATM    2  C02 BE5 A 501      18.013  21.787   8.523  1.00 24.30           C
+HETATM    3  C03 BE5 A 501      18.711  20.561   8.861  1.00 26.88           C
+HETATM    4  C04 BE5 A 501      17.983  19.429   9.455  1.00 26.55           C
+HETATM    5  C05 BE5 A 501      16.530  19.562   9.702  1.00 25.99           C
+HETATM    6  C06 BE5 A 501      15.843  20.800   9.359  1.00 25.99           C
+HETATM    7  C07 BE5 A 501       9.811  23.856   2.186  1.00 21.04           C
+HETATM    8  C08 BE5 A 501       8.770  22.928   2.668  1.00 23.02           C
+HETATM    9  C09 BE5 A 501       7.342  23.366   2.704  1.00 21.73           C
+HETATM   10  C10 BE5 A 501       6.981  24.748   2.245  1.00 24.35           C
+HETATM   11  C11 BE5 A 501       8.069  25.653   1.764  1.00 23.62           C
+HETATM   12  C12 BE5 A 501       9.435  25.199   1.746  1.00 22.67           C
+HETATM   13  C13 BE5 A 501      11.290  23.491   2.127  1.00 21.08           C
+HETATM   14  O14 BE5 A 501      11.760  23.061   3.446  1.00 19.29           O
+HETATM   15  C15 BE5 A 501      11.936  24.080   4.576  1.00 18.51           C
+HETATM   16  C16 BE5 A 501      12.997  23.686   5.566  1.00 20.53           C
+HETATM   17  C17 BE5 A 501      14.282  23.465   4.915  1.00 20.08           C
+HETATM   18  C18 BE5 A 501      15.229  22.727   5.959  1.00 18.95           C
+HETATM   19  C19 BE5 A 501      15.186  21.217   5.792  1.00 17.37           C
+HETATM   20  O20 BE5 A 501      14.128  20.572   6.003  1.00 18.21           O
+HETATM   21  N21 BE5 A 501      16.340  20.585   5.428  1.00 14.53           N
+HETATM   22  O22 BE5 A 501      14.886  23.062   7.373  1.00 22.02           O
+HETATM   23  C23 BE5 A 501      15.946  23.304   8.351  1.00 23.01           C
+HETATM   24  O24 BE5 A 501      14.843  24.745   4.519  1.00 17.11           O
+HETATM   25  O25 BE5 A 501      13.137  24.798   6.543  1.00 21.98           O
+HETATM   26  C26 BE5 A 501      10.697  24.217   5.367  1.00 16.79           C
+HETATM   27  O27 BE5 A 501      10.267  23.236   6.026  1.00 20.11           O
+HETATM   28  N28 BE5 A 501      10.049  25.410   5.370  1.00 15.99           N
+HETATM   29  C29 BE5 A 501       8.831  25.605   6.129  1.00 16.00           C
+HETATM   30  C30 BE5 A 501       9.143  26.303   7.414  1.00 16.23           C
+HETATM   31  C31 BE5 A 501       8.009  27.145   7.803  1.00 17.03           C
+HETATM   32  C32 BE5 A 501      10.361  26.247   8.258  1.00 16.86           C
+HETATM   33  C33 BE5 A 501      10.414  27.064   9.512  1.00 18.24           C
+HETATM   34  C34 BE5 A 501       9.256  27.900   9.874  1.00 19.35           C
+HETATM   35  C35 BE5 A 501       7.766  26.571   5.544  1.00 16.83           C
+HETATM   36  O36 BE5 A 501       8.483  27.646   4.889  1.00 14.03           O
+HETATM   37  C37 BE5 A 501       8.044  27.954   9.034  1.00 17.71           C
+HETATM   38  C38 BE5 A 501       6.940  27.011   6.789  1.00 16.65           C
+HETATM   39  C39 BE5 A 501      16.442  19.156   5.250  1.00 14.05           C
+HETATM   40  C40 BE5 A 501      16.360  18.758   3.782  1.00 15.79           C
+HETATM   41  C41 BE5 A 501      17.305  17.688   3.510  1.00 16.99           C
+HETATM   42  C42 BE5 A 501      15.512  19.292   2.705  1.00 16.33           C
+HETATM   43  C43 BE5 A 501      15.636  18.719   1.330  1.00 18.87           C
+HETATM   44  C44 BE5 A 501      16.601  17.640   1.096  1.00 17.66           C
+HETATM   45  C45 BE5 A 501      17.846  18.620   5.638  1.00 13.23           C
+HETATM   46  O46 BE5 A 501      18.812  19.662   5.343  1.00 13.13           O
+HETATM   47  C47 BE5 A 501      17.449  17.103   2.162  1.00 17.22           C
+HETATM   48  C48 BE5 A 501      18.023  17.353   4.783  1.00 15.28           C
+HETATM   49  F49 BE5 A 501       6.315  22.450   3.184  1.00 27.68           F
+HETATM   50  F50 BE5 A 501      15.778  18.448  10.291  1.00 29.63           F
+HETATM   51  F51 BE5 A 501      14.351  20.974   9.593  1.00 27.35           F
+HETATM   52  F52 BE5 A 501       9.143  21.560   3.121  1.00 24.30           F
+CONECT    1    2    6   23
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6   50
+CONECT    6    1    5   51
+CONECT    7    8   12   13
+CONECT    8    7    9   52
+CONECT    9    8   10   49
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12    7   11
+CONECT   13    7   14
+CONECT   14   13   15
+CONECT   15   14   16   26
+CONECT   16   15   17   25
+CONECT   17   16   18   24
+CONECT   18   17   19   22
+CONECT   19   18   20   21
+CONECT   20   19
+CONECT   21   19   39
+CONECT   22   18   23
+CONECT   23    1   22
+CONECT   24   17
+CONECT   25   16
+CONECT   26   15   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   28   30   35
+CONECT   30   29   31   32
+CONECT   31   30   37   38
+CONECT   32   30   33
+CONECT   33   32   34
+CONECT   34   33   37
+CONECT   35   29   36   38
+CONECT   36   35
+CONECT   37   31   34
+CONECT   38   31   35
+CONECT   39   21   40   45
+CONECT   40   39   41   42
+CONECT   41   40   47   48
+CONECT   42   40   43
+CONECT   43   42   44
+CONECT   44   43   47
+CONECT   45   39   46   48
+CONECT   46   45
+CONECT   47   41   44
+CONECT   48   41   45
+CONECT   49    9
+CONECT   50    5
+CONECT   51    6
+CONECT   52    8
+END

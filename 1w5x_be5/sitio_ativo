@@ -1,0 +1,4 @@
+ATOM    210  O   GLY A  27      11.390  27.391   3.408  1.00 10.74           O
+
+./vina --receptor prot.pdbqt --ligand lig.pdbqt --center_x 11.390 --center_y 27.391 --center_z 3.408 --size_x 22.5 --size_y 22.5 --size_z 22.5 --num_modes 50 --exhaustiveness 24 --out ligand_out.pdbqt
+
