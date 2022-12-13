@@ -1,0 +1,5 @@
+ATOM    613  O   HIS A  65      -5.504  12.835  32.630  1.00 19.72           O
+
+./vina --receptor proteina_1bai.pdbqt --ligand ligante_3in.pdbqt --center_x -5.504 --center_y 12.835 --center_z 32.630 --size_x 22.5 --size_y 22.5 --size_z 22.5 --num_modes 50 --exhaustiveness 24 --out ligante_3in_out.pdbqt
+
+
