@@ -1,0 +1,3560 @@
+MODEL 1
+REMARK VINA RESULT:      -5.5      0.000      0.000
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      29.503  -5.037   9.778  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      29.967  -5.086  10.696  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      29.674  -4.106   9.321  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      28.489  -5.180   9.911  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      30.053  -6.057   8.833  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.494  -7.463   9.223  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.291  -7.732   9.046  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.380  -8.362   9.680  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      31.321  -8.124   9.825  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.020  -9.736  10.032  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.313  -9.818  11.410  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.441 -10.642  11.656  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.619  -8.869  12.277  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.257  -8.165  12.026  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.073  -8.878  13.621  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.933  -7.907  13.897  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.246  -6.625  13.842  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      29.172  -6.387  13.643  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      27.274  -5.543  14.038  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      27.369  -4.666  12.759  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      28.470  -4.336  12.313  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      26.224  -4.400  12.128  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      25.370  -4.679  12.525  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      26.161  -3.654  10.868  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      26.581  -2.182  10.946  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      25.801  -1.298  11.304  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      27.777  -1.907  10.454  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.335  -2.620  10.070  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      28.296  -0.556  10.473  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      28.893  -0.291  11.842  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      29.335  -0.192   9.383  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      30.029  -1.048   8.832  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.450   1.110   9.140  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      28.890   1.721   9.648  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      30.420   1.684   8.217  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      30.399   3.201   8.465  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      31.358   3.928   8.072  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      29.409   3.647   9.098  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      28.636   3.062   9.415  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      29.395   4.654   9.262  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      29.970   1.377   6.765  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      31.074   0.944   5.737  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      31.443   2.044   4.665  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      32.771   1.736   4.005  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.723  -3.755  10.286  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      23.700  -4.537  11.087  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      22.944  -5.578  10.249  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      21.734  -5.396  10.020  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      23.548  -6.590   9.804  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      27.634  -4.841  15.382  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      28.951  -5.199  15.948  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      30.108  -4.577  15.500  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      31.367  -4.880  16.068  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      31.467  -5.827  17.093  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      30.314  -6.466  17.545  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      29.050  -6.145  16.964  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      30.221  -8.737  14.649  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      31.652  -8.693  14.043  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      32.077  -7.291  13.610  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      32.654  -9.248  15.039  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.306 -10.702   9.894  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      31.208 -11.608   8.665  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      32.599  -9.872   9.763  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.585  -5.993   8.865  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      32.258  -4.754   8.182  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      31.676  -4.338   6.785  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.673  -3.266   6.828  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.451  -3.346   6.297  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      29.076  -4.463   5.695  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.647  -2.273   6.258  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      29.702  -5.239   5.644  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      28.161  -4.533   5.294  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      28.952  -1.397   6.628  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      27.734  -2.357   5.852  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      30.908  -2.423   7.277  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.4      1.715      2.762
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      30.088  -4.509   9.998  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      31.015  -4.560  10.442  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      29.925  -3.559   9.579  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      29.367  -4.705  10.710  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      29.974  -5.475   8.862  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.486  -6.852   9.415  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.284  -7.169   9.343  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.429  -7.681   9.894  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      31.368  -7.405   9.954  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.136  -9.025  10.394  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.725  -9.014  11.889  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.927  -9.815  12.360  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      30.195  -8.014  12.613  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.764  -7.331  12.192  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.934  -7.933  14.037  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      28.685  -7.170  14.457  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.477  -6.024  13.834  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      29.130  -5.740  13.165  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      27.308  -5.170  14.073  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      27.251  -4.198  12.861  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      28.250  -4.023  12.159  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      26.061  -3.673  12.569  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      25.295  -3.836  13.161  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      25.834  -2.803  11.412  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      26.430  -1.395  11.512  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      25.806  -0.456  12.009  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      27.584  -1.222  10.888  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.004  -1.965  10.402  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      28.255   0.060  10.912  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      29.556  -0.095  11.677  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      28.544   0.722   9.541  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      28.320   1.916   9.334  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      28.992  -0.110   8.607  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      29.104  -1.047   8.846  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      29.250   0.276   7.226  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      29.230  -1.026   6.408  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      29.574  -1.022   5.190  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      28.827  -2.054   7.008  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      28.550  -2.057   7.990  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      28.814  -2.917   6.466  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      30.653   0.932   7.145  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      30.757   2.348   6.476  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      31.154   3.514   7.464  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      32.317   3.108   8.345  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.307  -2.704  11.138  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      23.751  -3.522   9.988  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      23.576  -5.009  10.334  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      22.424  -5.449  10.510  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      24.583  -5.758  10.431  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      27.497  -4.515  15.474  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      26.715  -3.281  15.703  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      25.401  -3.347  16.146  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      24.661  -2.172  16.412  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      25.245  -0.914  16.223  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      26.561  -0.835  15.769  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      27.295  -2.031  15.510  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      31.201  -7.426  14.770  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      31.836  -8.433  15.770  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      32.187  -7.799  17.116  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      30.901  -9.609  15.985  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.359 -10.024  10.054  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      30.943 -11.117   9.067  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      32.537  -9.249   9.429  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.326  -5.564   8.143  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      31.837  -4.265   7.431  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      31.567  -4.174   5.888  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.378  -4.903   5.426  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.594  -4.518   4.416  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      29.888  -3.413   3.751  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.450  -5.165   4.149  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      30.692  -2.875   4.001  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      29.306  -3.115   2.992  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      28.170  -5.948   4.701  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      27.877  -4.856   3.387  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      30.132  -5.736   5.887  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.4      2.620      8.374
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      31.884  -8.989  14.452  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      31.949  -8.006  14.751  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      31.279  -9.541  15.112  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      32.833  -9.392  14.427  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      31.231  -9.109  13.112  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.734  -8.681  13.237  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.830  -9.536  13.189  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      29.493  -7.379  13.464  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      30.220  -6.721  13.483  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      28.148  -6.835  13.659  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      27.499  -6.392  12.322  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      27.215  -7.185  11.433  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      27.374  -5.089  12.141  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      27.691  -4.467  12.833  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      26.721  -4.557  10.959  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.442  -3.426  10.237  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.605  -3.742   9.696  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.927  -4.658   9.800  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      29.424  -2.798   8.926  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      30.226  -1.989   9.983  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      31.252  -2.461  10.479  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      29.812  -0.744  10.226  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      28.986  -0.413   9.812  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      30.511   0.166  11.137  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      29.627   0.903  12.148  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      30.021   1.175  13.284  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      28.370   1.083  11.779  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.055   0.753  10.908  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      27.433   1.771  12.640  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      26.969   3.031  11.935  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      26.197   0.965  13.112  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      25.057   1.238  12.733  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      26.465   0.005  13.991  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      27.389  -0.118  14.266  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      25.449  -0.821  14.631  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      25.149  -0.156  15.985  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      26.037  -0.112  16.886  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      23.987   0.293  16.139  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      23.271   0.258  15.414  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      23.789   0.734  17.038  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      26.028  -2.242  14.854  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      25.088  -3.317  15.503  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      25.420  -3.658  17.009  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      24.158  -3.714  17.845  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      31.324   1.198  10.305  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      30.807   2.623  10.267  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      29.790   2.867   9.141  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      29.992   3.805   8.347  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      28.779   2.124   9.033  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      28.453  -1.979   8.023  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      29.024  -1.517   6.741  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      29.491  -0.217   6.601  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      30.080   0.221   5.392  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      30.195  -0.655   4.307  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      29.721  -1.960   4.432  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      29.133  -2.387   5.661  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      25.254  -4.194  11.295  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      24.189  -4.768  10.319  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      24.166  -6.296  10.290  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      22.814  -4.241  10.684  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      28.173  -5.684  14.792  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      27.894  -6.252  16.185  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      29.549  -4.991  14.834  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.402 -10.544  12.599  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      32.047 -10.718  11.182  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      31.046 -10.929   9.991  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.411  -9.701   9.494  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.118  -9.401   9.638  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      28.324 -10.241  10.282  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.590  -8.327   9.032  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      28.692 -11.088  10.662  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      27.353 -10.026  10.395  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      29.159  -7.733   8.467  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      27.616  -8.123   9.153  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      30.969  -9.045   9.019  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.3      3.796      8.316
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      26.292  -1.227  13.613  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      26.509  -0.492  14.301  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      27.119  -1.412  12.991  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      25.488  -0.920  13.043  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      25.991  -2.530  14.282  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      27.335  -3.266  14.587  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.299  -2.640  15.066  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      27.362  -4.591  14.374  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      26.595  -5.061  13.982  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      28.528  -5.427  14.665  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.398  -5.671  13.405  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      30.588  -5.956  13.471  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      28.815  -5.439  12.243  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      27.884  -5.125  12.217  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.508  -5.696  10.994  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      30.032  -4.478  10.245  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      29.522  -3.316  10.613  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.848  -3.313  11.319  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      29.933  -2.030  10.037  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      30.282  -1.126  11.252  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      31.052  -1.532  12.126  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      29.804   0.119  11.230  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      29.189   0.394  10.516  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      30.111   1.110  12.264  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      28.931   1.545  13.140  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      28.563   0.885  14.114  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      28.241   2.579  12.690  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.491   3.017  11.847  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      27.106   3.092  13.428  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      27.167   4.608  13.406  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      25.703   2.630  12.961  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      25.503   1.495  12.522  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      24.763   3.567  13.020  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      25.016   4.448  13.343  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      23.395   3.379  12.554  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      22.843   4.788  12.276  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      21.753   4.935  11.650  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      23.547   5.750  12.672  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      24.425   5.631  13.177  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      23.180   6.683  12.488  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      22.573   2.700  13.681  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      21.362   1.798  13.255  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      19.981   2.199  13.908  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      18.836   1.970  12.942  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      30.755   2.360  11.599  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      30.857   2.368  10.086  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      29.813   3.273   9.415  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      28.699   3.401   9.955  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      30.092   3.872   8.343  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      28.767  -1.541   9.126  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      29.153  -1.186   7.745  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      29.131  -2.139   6.736  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      29.454  -1.796   5.402  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      29.811  -0.483   5.079  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      29.847   0.481   6.085  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      29.514   0.119   7.425  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      28.634  -6.603  10.092  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      27.766  -7.649  10.847  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      26.266  -7.430  10.658  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      28.141  -9.051  10.403  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      28.069  -6.779  15.420  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      27.890  -7.943  14.443  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      29.119  -7.202  16.467  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      25.052  -3.347  13.385  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      24.820  -2.814  11.930  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      24.482  -3.897  10.845  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      23.102  -3.859  10.344  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      22.390  -4.933   9.995  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      22.928  -6.135  10.110  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      21.187  -4.801   9.414  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      23.858  -6.237  10.461  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      22.403  -6.947   9.851  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      20.806  -3.895   9.237  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      20.672  -5.622   9.159  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      22.661  -2.985  10.254  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.3      1.865      2.735
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      29.685  -2.985  10.191  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      30.324  -2.325  10.655  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      28.720  -2.576  10.105  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      29.648  -3.855  10.745  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      30.124  -3.277   8.791  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.947  -4.804   8.513  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      29.206  -5.193   7.590  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.678  -5.646   9.261  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      31.245  -5.318   9.993  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.664  -7.098   9.081  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.470  -7.764   9.813  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.526  -8.265   9.215  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.465  -7.659  11.130  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.189  -7.174  11.585  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      28.435  -8.299  11.928  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.508  -7.375  12.706  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.019  -6.206  13.049  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.943  -6.017  12.796  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      27.266  -5.170  13.765  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      27.219  -3.953  12.799  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      28.243  -3.308  12.564  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      26.063  -3.729  12.171  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      25.272  -4.265  12.396  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      25.888  -2.669  11.175  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      25.920  -1.236  11.715  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      24.896  -0.560  11.834  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      27.126  -0.723  11.892  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      27.928  -1.250  11.680  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      27.294   0.620  12.404  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      26.948   0.617  13.881  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      28.685   1.273  12.206  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      29.407   1.571  13.160  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.000   1.533  10.942  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      28.354   1.300  10.253  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      30.218   2.218  10.530  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      29.816   3.678  10.262  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      29.264   4.000   9.170  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      30.098   4.507  11.163  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      30.543   4.248  12.043  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      29.832   5.475  10.985  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      30.742   1.564   9.225  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      29.822   0.503   8.524  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      29.450   0.841   7.027  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      30.616   1.491   6.311  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.558  -2.907  10.405  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      23.485  -3.719  11.103  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      23.298  -5.119  10.498  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      24.309  -5.769  10.174  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      22.140  -5.589  10.342  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      27.983  -4.939  15.128  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      27.161  -4.293  16.172  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      27.644  -4.148  17.466  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      26.883  -3.491  18.460  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      25.618  -2.978  18.153  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      25.117  -3.125  16.860  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      25.901  -3.789  15.868  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      29.075  -9.380  12.833  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      30.295  -8.905  13.672  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      29.946  -8.632  15.134  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      31.410  -9.931  13.593  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      32.103  -7.721   9.468  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      32.686  -7.068  10.723  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      31.987  -9.235   9.737  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.571  -2.801   8.612  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      31.907  -2.041   7.283  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      31.681  -2.844   5.954  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.386  -2.607   5.303  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.638  -3.554   4.730  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      30.055  -4.809   4.746  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.537  -3.232   4.034  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      30.919  -5.045   5.187  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      29.502  -5.526   4.319  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      28.259  -2.278   3.937  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      27.993  -3.960   3.612  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      30.035  -1.689   5.279  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.2      2.626      7.329
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      29.560  -8.613  16.482  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      28.981  -9.190  15.857  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      30.341  -9.181  16.900  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      28.962  -8.236  17.234  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      30.226  -7.500  15.738  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.487  -6.162  16.061  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      29.000  -5.475  15.143  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      29.350  -5.843  17.358  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      29.755  -6.391  18.064  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      28.635  -4.652  17.820  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      27.243  -4.512  17.150  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      26.352  -5.338  17.303  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      27.105  -3.507  16.303  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      27.864  -2.908  16.128  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      25.830  -3.235  15.667  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      25.737  -3.538  14.177  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      26.875  -3.854  13.584  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      27.687  -3.865  14.126  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      26.977  -4.217  12.166  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      28.416  -3.812  11.739  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      29.233  -3.440  12.585  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      28.736  -3.997  10.458  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      28.050  -4.288   9.819  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      30.075  -3.735   9.923  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      30.372  -2.277   9.558  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      30.902  -1.499  10.354  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      29.880  -1.871   8.400  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      29.361  -2.486   7.835  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      30.095  -0.517   7.935  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      30.190  -0.540   6.421  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      29.051   0.543   8.366  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      28.286   1.072   7.556  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.090   0.868   9.654  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      29.752   0.430  10.215  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      28.258   1.900  10.260  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      29.126   3.168  10.315  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      29.591   3.578  11.419  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      29.304   3.768   9.226  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      28.930   3.439   8.337  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      29.879   4.610   9.263  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      27.878   1.454  11.696  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      27.066   0.121  11.853  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      25.912   0.176  12.929  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      25.107   1.452  12.798  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      30.317  -4.643   8.685  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      31.552  -5.524   8.697  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      31.401  -6.762   9.594  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      31.488  -6.620  10.828  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      31.189  -7.892   9.079  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      25.811  -3.500  11.423  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      24.763  -4.392  10.884  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      25.033  -5.730  10.632  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      24.025  -6.601  10.158  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      22.731  -6.121   9.927  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      22.450  -4.776  10.167  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      23.479  -3.912  10.649  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      25.382  -1.791  15.998  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      24.288  -1.672  17.097  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      23.914  -3.018  17.717  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      24.744  -0.715  18.182  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      29.572  -3.346  17.670  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      29.103  -2.202  18.571  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      31.030  -3.675  18.049  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      30.232  -7.833  14.240  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      29.094  -8.777  13.720  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      29.342  -9.448  12.323  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      29.004  -8.609  11.166  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      28.281  -9.013  10.119  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      27.804 -10.247  10.096  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.136  -8.230   9.040  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      27.981 -10.868  10.858  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      27.260 -10.560   9.316  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      28.567  -7.330   9.006  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      27.591  -8.555   8.265  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      29.330  -7.682  11.150  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.2      2.252      4.271
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      30.959  -5.110  10.493  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      31.608  -5.847  10.802  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      31.471  -4.208  10.322  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      30.242  -4.972  11.223  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      30.314  -5.461   9.191  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.752  -6.916   9.279  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.565  -7.150   8.982  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.621  -7.882   9.618  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      31.548  -7.673   9.862  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.258  -9.299   9.688  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.574  -9.659  11.032  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.782 -10.587  11.142  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.800  -8.833  12.038  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.370  -8.043  11.904  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.269  -9.102  13.361  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      28.337  -8.048  13.945  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.193  -6.949  13.227  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.691  -6.879  12.390  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      27.306  -5.843  13.606  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      27.328  -4.864  12.399  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      28.403  -4.506  11.910  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      26.149  -4.538  11.869  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      25.319  -4.842  12.297  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      26.013  -3.689  10.682  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      26.430  -2.226  10.860  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      27.353  -1.726  10.214  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      25.844  -1.586  11.858  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      25.191  -2.047  12.430  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      26.145  -0.197  12.129  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      24.940   0.432  12.802  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      27.411   0.091  12.975  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      27.632   1.202  13.460  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      28.251  -0.933  13.081  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      28.017  -1.764  12.634  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      29.539  -0.864  13.758  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      30.588  -1.303  12.722  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      31.794  -0.934  12.836  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      30.169  -2.003  11.767  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      29.198  -2.301  11.675  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      30.865  -2.294  11.081  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      29.529  -1.851  14.953  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      29.732  -1.255  16.391  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      28.429  -1.233  17.284  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      27.593  -0.003  16.995  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.547  -3.756  10.170  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      23.548  -4.522  11.016  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      22.700  -5.510  10.202  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      23.220  -6.578   9.828  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      21.501  -5.236   9.927  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      27.830  -5.278  14.960  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      26.866  -4.448  15.713  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      26.717  -4.603  17.084  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      25.830  -3.783  17.819  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      25.076  -2.800  17.168  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      25.209  -2.641  15.789  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      26.113  -3.475  15.063  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      30.428  -9.453  14.325  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      31.138  -8.235  14.981  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      31.101  -8.270  16.508  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      32.577  -8.155  14.504  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.537 -10.218   9.333  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      32.414 -10.472  10.562  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      31.088 -11.589   8.788  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.338  -5.284   8.062  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      30.781  -4.868   6.658  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      31.069  -3.390   6.213  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.661  -2.364   7.182  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.438  -1.833   7.258  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      28.497  -2.251   6.428  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      29.187  -0.801   8.077  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      28.699  -2.960   5.755  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      27.576  -1.860   6.477  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      29.912  -0.416   8.644  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      28.262  -0.418   8.116  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      31.329  -2.035   7.823  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.2      3.241      5.646
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      27.899  -8.274   9.281  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      27.359  -9.128   9.477  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      27.408  -7.674   8.572  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      28.830  -8.545   8.925  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      28.037  -7.423  10.503  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      28.504  -8.319  11.695  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.564  -9.556  11.565  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      28.893  -7.685  12.813  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      28.823  -6.710  12.898  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      29.409  -8.383  13.992  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.036  -7.653  15.309  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.794  -8.253  16.349  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      28.878  -6.344  15.223  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      28.992  -5.894  14.356  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      28.595  -5.545  16.401  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.180  -4.996  16.524  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      26.842  -4.079  15.635  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      27.510  -3.811  14.976  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      25.511  -3.465  15.570  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      25.423  -2.820  14.158  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      24.996  -3.474  13.203  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      25.717  -1.522  14.072  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      26.059  -1.044  14.859  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      25.605  -0.759  12.826  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      26.854  -0.746  11.939  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      27.323   0.300  11.486  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      27.296  -1.935  11.564  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      26.831  -2.752  11.850  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      28.472  -2.061  10.730  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      29.571  -2.714  11.547  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      28.302  -2.830   9.396  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      27.680  -3.893   9.330  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      28.922  -2.281   8.357  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      29.424  -1.461   8.506  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      28.967  -2.875   7.027  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      30.361  -3.511   6.891  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      31.402  -2.800   7.001  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      30.389  -4.741   6.636  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      29.550  -5.314   6.548  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      31.313  -5.162   6.546  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      28.791  -1.752   5.973  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      29.023  -0.272   6.441  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      30.089   0.528   5.594  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      30.420  -0.202   4.309  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      25.186   0.701  13.158  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      23.817   1.157  12.690  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      23.591   2.666  12.864  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      22.837   3.055  13.775  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      24.165   3.483  12.097  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      25.395  -2.491  16.780  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      24.230  -2.716  17.661  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      23.369  -1.673  17.978  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      22.227  -1.889  18.784  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      21.949  -3.166  19.283  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      22.811  -4.219  18.980  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      23.957  -3.984  18.163  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      29.666  -4.437  16.546  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      30.154  -4.174  17.999  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      29.373  -3.065  18.702  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      30.075  -5.453  18.812  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      30.988  -8.670  13.823  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      31.804  -8.056  14.964  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      31.269 -10.186  13.809  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      26.702  -6.717  10.773  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      25.396  -7.527  10.465  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      24.118  -6.675  10.142  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      24.197  -5.266  10.548  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      23.222  -4.370  10.377  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      22.083  -4.747   9.821  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      23.427  -3.072  10.648  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      21.954  -5.695   9.536  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      21.346  -4.083   9.688  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      24.313  -2.757  10.983  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      22.681  -2.417  10.510  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      25.023  -4.948  10.976  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.2      1.512      2.214
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      30.005  -4.826  10.070  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      30.966  -4.728  10.426  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      29.631  -3.900   9.741  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      29.408  -5.197  10.825  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      29.955  -5.727   8.877  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.464  -7.140   9.329  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.288  -7.493   9.121  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.382  -7.954   9.876  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      31.300  -7.649  10.043  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.089  -9.325  10.296  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.653  -9.397  11.783  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.822 -10.201  12.188  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      30.141  -8.461  12.577  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.738  -7.771  12.211  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.857  -8.465  14.000  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      29.039  -7.296  14.533  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.420  -6.568  13.621  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.532  -6.814  12.683  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      27.554  -5.428  13.944  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      27.356  -4.667  12.603  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      27.623  -5.217  11.532  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      26.788  -3.462  12.675  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      26.598  -3.062  13.552  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      26.466  -2.659  11.493  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      27.127  -1.278  11.428  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      26.468  -0.236  11.465  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      28.424  -1.281  11.169  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.903  -2.128  11.032  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      29.168  -0.042  11.088  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      30.071   0.055  12.303  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      30.009   0.183   9.806  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      30.791  -0.670   9.382  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.858   1.379   9.248  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      29.248   2.007   9.671  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      30.610   1.838   8.087  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      30.548   3.374   8.119  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      29.641   3.965   8.776  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      31.413   3.980   7.438  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      32.143   3.504   6.909  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      31.372   4.999   7.460  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      29.920   1.306   6.804  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      30.694   0.240   5.951  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      29.770  -0.741   5.127  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      28.798  -1.464   6.036  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.923  -2.504  11.385  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      24.072  -3.678  11.828  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      23.758  -4.661  10.690  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      22.571  -4.829  10.357  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      24.693  -5.274  10.110  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      28.248  -4.634  15.091  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      27.358  -4.206  16.190  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      27.844  -4.067  17.482  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      27.011  -3.614  18.531  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      25.670  -3.304  18.281  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      25.166  -3.449  16.989  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      26.023  -3.904  15.941  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      31.173  -8.665  14.792  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      30.994  -9.050  16.288  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      31.534 -10.441  16.617  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      31.666  -8.016  17.173  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.324 -10.296   9.925  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      30.917 -11.374   8.917  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      32.485  -9.491   9.307  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.339  -5.758   8.215  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      31.931  -4.385   7.747  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      31.409  -3.844   6.369  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.589  -4.793   5.604  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      30.463  -4.789   4.275  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      31.121  -3.890   3.562  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      29.584  -5.600   3.666  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      31.711  -3.225   4.016  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      31.033  -3.879   2.565  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      29.014  -6.221   4.200  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      29.505  -5.578   2.667  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      30.092  -5.484   6.096  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -5.2      2.669      8.392
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      30.288  -8.617  16.542  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      30.016  -9.596  16.704  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      31.261  -8.435  16.895  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      29.618  -8.001  17.029  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      30.323  -8.295  15.082  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      28.957  -7.660  14.670  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      27.947  -8.376  14.528  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      28.922  -6.323  14.551  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      29.732  -5.779  14.652  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      27.704  -5.577  14.227  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      27.491  -5.447  12.696  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      27.978  -6.233  11.893  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      26.848  -4.367  12.289  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      26.542  -3.703  12.947  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      26.530  -4.168  10.888  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.494  -3.299  10.090  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.561  -3.915   9.614  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.667  -4.866   9.808  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      29.579  -3.254   8.789  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      30.269  -2.226   9.728  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      30.888  -2.613  10.723  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      30.250  -0.951   9.340  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      29.738  -0.689   8.544  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      30.924   0.120  10.080  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      30.064   0.859  11.111  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      30.564   1.537  12.012  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      28.770   0.592  11.067  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.414  -0.043  10.406  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      27.848   1.230  11.982  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      27.316   2.490  11.327  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      26.659   0.373  12.485  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      26.120  -0.475  11.772  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      26.243   0.668  13.712  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      26.701   1.380  14.191  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      25.090   0.049  14.352  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      24.136   1.199  14.718  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      23.492   1.807  13.814  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      24.072   1.503  15.935  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      24.591   1.013  16.663  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      23.440   2.266  16.177  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      25.564  -0.676  15.639  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      27.084  -0.570  16.015  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      27.429   0.581  17.041  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      28.754   1.232  16.700  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      31.521   1.141   9.071  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      30.559   1.814   8.111  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      30.511   3.341   8.276  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      31.430   4.024   7.789  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      29.553   3.879   8.892  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      28.849  -2.667   7.544  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      29.415  -3.060   6.237  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      29.243  -2.256   5.119  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      29.820  -2.603   3.875  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      30.572  -3.776   3.750  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      30.744  -4.597   4.863  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      30.158  -4.230   6.112  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      25.064  -3.692  10.749  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      23.989  -4.805  10.895  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      22.688  -4.482  10.160  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      24.542  -6.129  10.400  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      27.687  -4.169  15.016  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      26.980  -4.284  16.369  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      29.123  -3.673  15.278  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      30.649  -9.572  14.296  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      30.892  -9.414  12.756  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      29.830 -10.090  11.819  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      28.737  -9.208  11.387  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      28.249  -9.153  10.146  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      28.750  -9.949   9.215  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      27.348  -8.221   9.802  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      29.484 -10.587   9.443  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      28.391  -9.916   8.281  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      27.027  -7.555  10.472  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      26.997  -8.199   8.864  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      28.330  -8.608  12.052  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:      -5.2      4.853     10.841
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      21.762   1.807  12.405  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      21.333   1.377  11.574  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      22.370   1.116  12.913  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      21.012   2.139  13.031  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      22.665   2.938  12.030  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      24.093   2.657  12.599  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      24.976   3.534  12.544  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      24.283   1.471  13.199  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      23.578   0.789  13.219  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      25.547   1.085  13.830  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      26.173  -0.167  13.161  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      27.246  -0.637  13.517  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      25.540  -0.636  12.100  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      24.726  -0.187  11.779  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      25.993  -1.840  11.431  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.210  -1.698  10.527  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      27.759  -0.497  10.490  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      27.352   0.211  11.026  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      28.961  -0.178   9.711  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      29.974   0.406  10.735  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      31.153   0.574  10.414  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      29.479   0.810  11.905  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      28.534   0.649  12.119  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      30.295   1.451  12.939  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      30.615   0.588  14.164  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      31.743   0.132  14.365  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      29.573   0.236  14.898  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.667   0.523  14.648  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      29.741  -0.573  16.086  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      28.661  -0.194  17.081  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      29.737  -2.110  15.889  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      30.430  -2.858  16.582  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      28.978  -2.539  14.887  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      28.494  -1.876  14.365  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      28.889  -3.932  14.469  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      29.221  -3.948  12.967  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      29.750  -2.938  12.417  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      28.906  -4.990  12.339  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      28.480  -5.804  12.782  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      29.125  -5.000  11.344  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      27.439  -4.430  14.698  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      26.854  -4.324  16.150  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      25.556  -3.432  16.273  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      25.015  -3.068  14.906  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      29.603   2.767  13.395  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      28.382   3.217  12.615  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      28.674   4.381  11.656  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      29.190   4.129  10.551  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      28.390   5.561  11.990  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      28.521   0.773   8.558  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      29.234   0.584   7.277  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      30.265   1.438   6.908  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      30.983   1.237   5.706  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      30.656   0.171   4.860  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      29.617  -0.687   5.215  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      28.905  -0.472   6.435  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      24.801  -2.509  10.703  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      24.341  -3.870  11.298  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      23.139  -4.468  10.567  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      25.493  -4.858  11.285  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      25.353   0.950  15.427  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      25.784   2.221  16.162  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      23.874   0.685  15.776  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      22.064   4.251  12.545  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      21.033   4.974  11.612  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      19.528   4.576  11.810  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      18.925   3.861  10.677  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      18.172   4.431   9.732  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      17.947   5.733   9.780  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      17.543   3.685   8.812  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      18.340   6.285  10.513  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      17.384   6.171   9.076  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      17.631   2.690   8.819  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      16.982   4.134   8.114  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      19.078   2.893  10.599  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:      -5.1      5.405      9.377
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      28.776  -4.552   4.635  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      29.051  -5.084   3.797  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      28.068  -5.085   5.200  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      28.377  -3.648   4.337  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      29.939  -4.333   5.548  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.809  -2.922   6.205  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.794  -2.626   6.864  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.860  -2.096   6.080  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      31.644  -2.343   5.544  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.911  -0.764   6.687  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      30.503  -0.791   8.183  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      31.181  -1.341   9.042  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.317  -0.286   8.470  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      28.750   0.071   7.751  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      28.854  -0.194   9.842  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.808  -1.213  10.276  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      26.895  -0.771  11.122  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      26.953   0.158  11.418  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      25.785  -1.592  11.619  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      25.539  -1.116  13.078  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      25.649  -1.910  14.016  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      25.325   0.188  13.256  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      25.239   0.780  12.478  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      25.155   0.796  14.578  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      23.812   1.493  14.822  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      23.069   1.172  15.752  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      23.435   2.343  13.882  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      23.999   2.495  13.092  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      22.189   3.071  13.996  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      22.498   4.476  14.479  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      21.309   3.150  12.723  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      21.532   2.452  11.732  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      20.344   4.063  12.773  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      20.263   4.598  13.581  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      19.452   4.366  11.662  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      19.215   5.885  11.708  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      18.044   6.347  11.839  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      20.232   6.611  11.576  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      21.176   6.239  11.472  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      20.075   7.618  11.607  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      18.113   3.615  11.877  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      17.440   2.953  10.624  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      15.864   3.059  10.589  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      15.234   2.121  11.598  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      26.316   1.799  14.832  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      27.189   2.168  13.648  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      26.629   3.340  12.828  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      25.729   3.112  11.998  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      27.078   4.504  13.002  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      26.201  -3.083  11.442  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      25.133  -3.983  10.959  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      25.362  -5.346  10.826  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      24.333  -6.221  10.407  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      23.060  -5.721  10.112  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      22.821  -4.353  10.232  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      23.870  -3.484  10.659  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      28.415   1.259  10.147  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      29.501   2.155  10.807  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      30.704   1.361  11.316  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      29.964   3.216   9.826  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      30.072   0.287   5.794  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      30.628   1.707   5.916  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      30.114  -0.108   4.304  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.239  -4.504   4.752  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      31.138  -4.378   3.193  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      32.392  -4.857   2.380  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      32.084  -5.551   1.123  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      32.226  -6.864   0.924  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      32.658  -7.627   1.914  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      32.057  -7.396  -0.296  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      32.870  -7.225   2.803  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      32.768  -8.613   1.775  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      31.820  -6.817  -1.074  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      32.172  -8.383  -0.421  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      31.750  -5.020   0.365  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:      -5.1      1.718      2.812
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      29.667  -4.629  10.149  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      30.226  -3.765  10.126  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      28.650  -4.422   9.982  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      29.786  -5.076  11.071  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      30.070  -5.569   9.058  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.511  -6.992   9.382  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      28.360  -7.311   9.027  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.349  -7.849   9.987  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      31.246  -7.572  10.271  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      29.990  -9.233  10.304  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.403  -9.369  11.733  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.585 -10.231  12.030  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.744  -8.427  12.593  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.334  -7.693  12.307  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.312  -8.484  13.977  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      28.165  -7.561  14.368  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.258  -6.317  13.936  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      29.044  -6.070  13.412  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      27.231  -5.295  14.176  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      27.297  -4.347  12.947  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      28.382  -3.907  12.560  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      26.156  -4.138  12.288  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      25.315  -4.504  12.639  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      26.074  -3.332  11.067  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      26.012  -1.816  11.275  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      24.944  -1.200  11.273  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      27.180  -1.197  11.294  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.015  -1.703  11.180  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      27.259   0.235  11.490  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      27.172   0.522  12.977  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      28.501   0.952  10.903  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      29.096   1.837  11.521  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      28.829   0.574   9.672  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      28.282  -0.105   9.242  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      29.908   1.171   8.896  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      29.579   0.888   7.420  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      28.384   0.671   7.061  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      30.554   0.854   6.629  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      31.516   1.029   6.918  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      30.335   0.665   5.651  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      31.242   0.483   9.283  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      31.203  -1.054   9.596  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      31.390  -1.421  11.120  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      32.018  -0.272  11.882  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.849  -3.795  10.230  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      24.024  -4.943  10.780  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      24.450  -6.311  10.225  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      25.534  -6.796  10.599  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      23.707  -6.922   9.412  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      27.541  -4.651  15.561  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      26.462  -3.811  16.121  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      26.077  -2.637  15.488  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      25.016  -1.850  15.992  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      24.336  -2.243  17.150  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      24.719  -3.415  17.800  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      25.791  -4.199  17.276  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      30.535  -8.322  14.911  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      31.013  -9.626  15.609  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      31.775 -10.563  14.672  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      31.878  -9.285  16.809  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.239 -10.213  10.009  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      30.868 -11.328   9.029  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      32.417  -9.426   9.400  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.598  -5.546   8.917  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      32.224  -4.300   8.201  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      31.716  -4.016   6.744  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.621  -3.041   6.651  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.412  -3.302   6.150  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      29.139  -4.519   5.710  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.515  -2.319   5.972  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      29.832  -5.237   5.758  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      28.235  -4.725   5.332  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      28.740  -1.378   6.216  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      27.615  -2.539   5.592  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      30.780  -2.128   6.978  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:      -5.1      2.738      7.167
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      28.435  -3.085   4.438  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      28.225  -4.091   4.506  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      27.582  -2.509   4.654  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      28.764  -2.879   3.482  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      29.464  -2.674   5.442  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      30.185  -3.951   5.982  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      30.852  -4.668   5.213  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.101  -4.181   7.302  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      29.558  -3.611   7.887  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.769  -5.303   7.964  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.882  -5.942   9.064  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      29.525  -7.113   9.026  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.428  -5.121   9.994  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      29.656  -4.165   9.955  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      28.644  -5.614  11.111  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.478  -4.743  11.559  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      26.870  -4.064  10.602  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      27.206  -4.154   9.690  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      25.702  -3.205  10.834  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      26.250  -1.952  11.572  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      27.310  -1.435  11.211  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      25.469  -1.420  12.512  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      24.636  -1.872  12.770  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      25.815  -0.195  13.239  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      26.411  -0.397  14.636  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      27.003   0.507  15.229  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      26.388  -1.639  15.089  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      26.009  -2.362  14.542  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      26.914  -1.962  16.398  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      26.263  -3.246  16.873  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      28.453  -2.094  16.518  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      29.066  -1.702  17.513  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.051  -2.608  15.448  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      28.494  -2.856  14.689  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      30.494  -2.747  15.308  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      30.775  -2.768  13.796  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      31.905  -3.139  13.360  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      29.845  -2.370  13.051  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      28.935  -2.071  13.402  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      30.032  -2.384  12.049  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      30.930  -4.090  15.947  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      30.038  -5.351  15.671  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      29.184  -5.837  16.908  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      27.898  -6.496  16.456  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.557   0.714  13.335  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      24.551   1.983  12.505  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      25.747   2.901  12.798  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      26.464   3.269  11.849  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      25.986   3.271  13.978  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      24.653  -4.057  11.609  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      23.874  -5.004  10.783  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      22.633  -4.646  10.274  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      21.902  -5.528   9.446  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      22.420  -6.790   9.131  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      23.660  -7.165   9.644  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      24.387  -6.260  10.476  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      29.585  -5.978  12.285  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      29.842  -7.499  12.481  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      31.155  -7.796  13.206  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      28.685  -8.128  13.235  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      32.233  -4.855   8.477  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      32.219  -3.447   9.076  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      32.749  -5.821   9.563  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      28.784  -1.858   6.550  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      28.782  -0.300   6.383  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      29.918   0.475   7.139  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      29.461   1.629   7.924  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      28.997   1.563   9.174  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      28.947   0.392   9.787  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.468   2.643   9.769  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      29.259  -0.433   9.319  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      28.602   0.332  10.725  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      28.416   3.514   9.285  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      28.125   2.569  10.708  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      29.492   2.519   7.508  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:      -5.1      3.649      9.021
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      25.068  -3.282  12.887  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      24.075  -3.016  12.826  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      25.268  -3.780  13.791  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      25.644  -2.428  12.823  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      25.442  -4.244  11.805  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      26.951  -4.617  11.958  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      27.538  -4.433  13.041  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      27.541  -5.199  10.901  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      27.064  -5.321  10.053  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      28.932  -5.656  10.910  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.818  -4.847   9.928  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      31.029  -4.738  10.069  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.177  -4.177   8.986  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      28.195  -4.208   8.946  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.901  -3.438   7.969  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      29.776  -1.921   8.014  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      30.913  -1.254   8.104  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      31.743  -1.766   8.145  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      30.996   0.211   8.118  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      30.589   0.634   9.557  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      31.394   0.532  10.485  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      29.392   1.206   9.698  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      28.781   1.260   8.931  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      28.902   1.727  10.977  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      27.976   0.794  11.764  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      27.820  -0.388  11.451  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      27.239   1.377  12.695  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      27.304   2.346  12.847  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      26.329   0.606  13.514  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      26.366   1.161  14.925  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      24.857   0.526  13.034  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      24.453  -0.395  12.321  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      24.097   1.550  13.406  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      24.507   2.254  13.937  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      22.708   1.724  13.000  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      22.690   2.932  12.049  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      23.710   3.674  11.937  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      21.613   3.144  11.438  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      20.792   2.547  11.528  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      21.602   3.946  10.808  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      21.855   2.027  14.259  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      22.567   1.957  15.655  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      22.140   0.728  16.551  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      23.354   0.033  17.134  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      28.189   3.087  10.735  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      28.841   4.328  11.313  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      28.108   4.877  12.547  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      26.992   4.407  12.836  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      28.637   5.780  13.246  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      30.088   0.733   6.964  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      30.718   0.756   5.627  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      31.703   1.685   5.324  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      32.343   1.685   4.063  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      31.984   0.746   3.091  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      30.989  -0.187   3.380  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      30.356  -0.176   4.659  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      29.563  -4.010   6.571  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      30.774  -4.574   5.775  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      30.984  -3.877   4.431  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      32.037  -4.472   6.610  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      28.993  -7.254  10.688  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      29.105  -8.009  12.015  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      27.724  -7.754   9.970  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      25.116  -3.618  10.443  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      23.626  -3.698   9.964  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      22.772  -4.870  10.565  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      22.382  -5.907   9.600  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      23.053  -7.042   9.391  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      24.143  -7.292  10.097  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      22.708  -7.870   8.393  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      24.457  -6.639  10.783  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      24.653  -8.141   9.948  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      21.942  -7.649   7.793  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      23.228  -8.716   8.254  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      21.571  -5.765   9.063  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:      -5.1      2.576      5.954
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      29.196  -1.748   8.769  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      28.524  -2.398   9.198  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      30.044  -1.629   9.379  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      28.734  -0.836   8.630  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      29.709  -2.276   7.467  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.626  -3.836   7.484  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      29.115  -4.449   6.528  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.189  -4.461   8.530  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      30.574  -3.957   9.280  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.242  -5.918   8.661  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.137  -6.459   9.605  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.367  -7.352   9.275  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      28.991  -5.821  10.753  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      29.563  -5.049  10.959  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      28.035  -6.276  11.745  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      26.800  -5.408  11.946  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      26.594  -4.483  11.026  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      27.238  -4.409  10.296  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      25.436  -3.581  11.027  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      25.892  -2.325  11.823  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      25.092  -1.724  12.544  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      27.188  -2.019  11.769  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      27.786  -2.523  11.175  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      27.780  -0.913  12.526  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      28.561   0.115  11.701  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      28.215   0.436  10.562  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      29.709   0.511  12.225  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      30.014   0.150  13.087  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      30.538   1.484  11.548  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      31.150   0.826  10.326  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      29.856   2.810  11.127  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      29.746   3.140   9.944  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.457   3.574  12.139  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      29.618   3.254  13.043  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      28.869   4.897  11.979  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      29.831   5.878  12.668  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      31.081   5.679  12.634  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      29.303   6.841  13.278  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      28.296   7.002  13.305  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      29.941   7.491  13.735  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      27.490   4.919  12.689  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      26.931   3.558  13.233  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      25.892   2.845  12.281  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      25.152   1.743  13.011  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      28.696  -1.489  13.642  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      29.109  -2.944  13.522  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      30.293  -3.158  12.566  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      30.085  -3.115  11.339  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      31.446  -3.368  13.027  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      24.236  -4.375  11.624  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      23.506  -5.230  10.664  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      22.300  -4.812  10.118  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      21.618  -5.603   9.165  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      22.149  -6.833   8.761  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      23.354  -7.268   9.309  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      24.032  -6.455  10.267  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      28.768  -6.565  13.078  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      29.927  -7.597  12.986  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      31.284  -7.009  13.371  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      29.622  -8.799  13.861  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.735  -6.387   9.059  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      32.381  -5.434  10.067  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      31.714  -7.794   9.691  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.134  -1.755   7.242  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      31.278  -0.375   6.513  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      30.002   0.538   6.508  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.172   1.839   7.169  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      30.891   2.852   6.680  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      31.496   2.715   5.512  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      31.111   3.954   7.412  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      31.409   1.862   4.999  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      32.038   3.468   5.136  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      30.735   4.034   8.334  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      31.656   4.701   7.025  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      29.729   1.985   8.035  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:      -5.0      3.694      9.516
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      28.547   2.378  11.642  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      29.189   1.577  11.717  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      28.328   2.772  12.592  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      27.677   2.063  11.185  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      29.164   3.501  10.872  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.594   2.975   9.465  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      29.751   3.769   8.518  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      29.846   1.660   9.361  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      29.701   1.051  10.116  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.312   1.028   8.126  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.608  -0.329   7.865  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      29.003  -0.570   6.828  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.595  -1.180   8.876  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.011  -0.930   9.731  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.025  -2.506   8.731  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.731  -2.776   9.488  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      27.494  -1.982  10.517  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.153  -1.294  10.728  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      26.281  -2.062  11.340  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      26.474  -1.005  12.463  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      27.512  -0.340  12.518  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      25.433  -0.787  13.267  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      24.629  -1.346  13.190  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      25.437   0.231  14.321  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      25.575  -0.294  15.753  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      26.527   0.016  16.473  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      24.700  -1.221  16.106  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      24.019  -1.531  15.468  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      24.719  -1.794  17.434  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      23.292  -1.875  17.942  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      25.395  -3.180  17.586  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      24.794  -4.151  18.050  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      26.676  -3.214  17.232  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      27.083  -2.391  16.912  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      27.528  -4.387  17.369  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      28.525  -4.060  18.494  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      29.732  -3.793  18.223  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      28.076  -4.111  19.667  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      27.104  -4.325  19.886  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      28.737  -3.894  20.413  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      28.289  -4.610  16.036  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      27.555  -5.415  14.906  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      28.449  -6.495  14.180  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      27.783  -6.990  12.913  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.147   1.092  14.204  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      23.749   1.565  12.819  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      24.363   2.923  12.445  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      23.631   3.930  12.446  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      25.585   3.003  12.150  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      26.139  -3.543  11.805  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      25.031  -4.296  11.181  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      25.201  -5.619  10.799  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      24.133  -6.361  10.243  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      22.881  -5.764  10.061  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      22.700  -4.433  10.432  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      23.788  -3.700  10.995  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      30.108  -3.572   9.028  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      29.636  -4.772   9.898  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      29.838  -6.123   9.214  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      30.357  -4.759  11.233  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.924   0.946   8.116  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      32.483   0.580   9.493  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      32.410  -0.121   7.114  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      30.334   4.077  11.678  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      29.974   4.900  12.963  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      29.222   6.256  12.723  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      27.759   6.145  12.643  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      26.934   6.199  13.691  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      27.433   6.380  14.902  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      25.624   5.948  13.547  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      28.418   6.481  15.029  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      26.823   6.422  15.695  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      25.246   5.720  12.652  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      25.024   5.992  14.349  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      27.347   6.021  11.759  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:      -5.0      1.849      2.718
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      32.878  -6.521   9.306  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      33.444  -6.090   8.562  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      33.228  -6.237  10.256  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      32.927  -7.547   9.207  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      31.457  -6.060   9.246  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      30.516  -7.290   9.447  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      29.285  -7.172   9.294  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      31.105  -8.466   9.717  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      32.075  -8.534   9.848  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.363  -9.718   9.875  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.637  -9.796  11.244  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      28.698 -10.554  11.450  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      30.011  -8.910  12.150  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      30.707  -8.251  11.932  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.452  -8.927  13.488  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      28.321  -7.945  13.765  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.551  -6.693  13.411  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      29.417  -6.480  13.013  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      27.568  -5.614  13.560  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      27.623  -4.818  12.226  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      28.637  -4.852  11.525  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      26.499  -4.211  11.843  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      25.718  -4.206  12.438  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      26.374  -3.490  10.573  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      27.131  -2.161  10.487  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      28.051  -1.984   9.685  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      26.842  -1.280  11.430  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      26.183  -1.494  12.126  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      27.484   0.017  11.457  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      26.679   0.931  12.362  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      28.971   0.051  11.889  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      29.311  -0.066  13.068  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.831   0.270  10.899  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      29.474   0.390  10.003  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      31.268   0.424  11.086  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      31.503   1.916  11.374  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      31.626   2.740  10.421  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      31.595   2.242  12.584  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      31.496   1.578  13.352  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      31.752   3.231  12.774  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      31.988   0.017   9.775  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      31.102  -0.512   8.593  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      30.725   0.578   7.514  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      29.240   0.552   7.212  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      24.868  -3.253  10.266  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      23.858  -4.017  11.101  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      23.363  -5.302  10.421  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      24.195  -6.178  10.120  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      22.136  -5.457  10.182  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      27.944  -4.824  14.849  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      27.033  -3.713  15.196  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      27.372  -2.400  14.899  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      26.487  -1.335  15.187  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      25.250  -1.591  15.788  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      24.902  -2.904  16.101  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      25.806  -3.968  15.800  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      30.592  -8.813  14.529  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      31.259 -10.158  14.933  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      32.635 -10.357  14.300  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      31.370 -10.249  16.444  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      31.324 -10.978   9.568  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      32.581 -10.561   8.800  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      31.779 -11.650  10.879  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.221  -5.338   7.914  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      30.350  -4.036   7.958  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      29.547  -3.700   6.651  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      29.675  -4.692   5.576  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.184  -4.545   4.343  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      28.544  -3.431   4.028  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      29.222  -5.557   3.463  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      28.435  -2.706   4.705  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      28.172  -3.311   3.106  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      29.621  -6.436   3.718  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      28.845  -5.424   2.545  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      30.154  -5.529   5.767  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:      -5.0      2.796      6.896
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      29.554  -1.154   4.122  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      29.143  -1.575   4.968  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      29.356  -0.123   4.084  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      29.152  -1.619   3.292  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      31.043  -1.280   4.120  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      31.506  -1.862   5.494  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      32.703  -2.146   5.687  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      30.571  -1.967   6.453  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      29.630  -1.751   6.275  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      30.861  -2.440   7.808  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      30.144  -3.779   8.123  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      29.276  -4.248   7.398  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      30.438  -4.335   9.284  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      31.073  -3.894   9.891  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.882  -5.621   9.660  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      28.481  -5.607  10.257  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      28.001  -4.415  10.563  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      28.567  -3.636  10.401  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      26.655  -4.198  11.108  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      26.866  -3.391  12.420  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      25.992  -2.618  12.820  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      27.965  -3.666  13.123  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      28.636  -4.284  12.761  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      28.262  -3.045  14.417  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      29.035  -1.723  14.358  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      29.658  -1.287  15.328  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      28.857  -1.010  13.259  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      28.262  -1.332  12.546  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      29.535   0.255  13.076  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      30.956  -0.024  12.622  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      28.877   1.266  12.104  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      29.293   1.432  10.955  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      27.877   1.967  12.627  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      27.638   1.800  13.554  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      27.170   3.029  11.922  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      27.719   4.352  12.482  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      27.707   4.573  13.729  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      28.135   5.183  11.638  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      28.145   5.005  10.634  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      28.499   6.061  12.009  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      25.655   2.910  12.232  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      25.192   1.728  13.154  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      23.732   1.200  12.863  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      22.709   1.947  13.695  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      29.032  -4.060  15.307  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      28.208  -5.056  16.100  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      28.092  -6.426  15.414  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      27.874  -6.463  14.189  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      28.221  -7.482  16.088  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      25.991  -5.599  11.261  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      24.636  -5.720  10.683  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      23.746  -4.656  10.733  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      22.464  -4.748  10.143  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      22.067  -5.927   9.502  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      22.948  -7.006   9.454  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      24.240  -6.895  10.051  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      30.890  -6.381  10.557  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      30.632  -6.269  12.086  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      31.032  -7.528  12.855  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      31.370  -5.068  12.649  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      30.569  -1.269   8.880  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      31.668  -0.204   8.874  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      29.232  -0.565   8.568  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      31.661   0.090   3.813  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      31.959   1.023   5.036  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      30.960   2.214   5.252  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      30.305   2.240   6.567  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      30.558   3.134   7.525  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      31.445   4.090   7.304  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      30.020   3.002   8.747  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      31.916   4.144   6.426  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      31.642   4.766   8.017  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      29.418   2.233   8.956  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      30.225   3.685   9.451  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      29.631   1.552   6.767  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL
+MODEL 20
+REMARK VINA RESULT:      -5.0      2.767      6.296
+REMARK  29 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_4 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK       I    between atoms: C_4  and  N1_19 
+REMARK    4  A    between atoms: CB_6  and  CG_9 
+REMARK    5  A    between atoms: CG_9  and  CD_12 
+REMARK    6  A    between atoms: CD_12  and  NE_15 
+REMARK       I    between atoms: NE_15  and  CZ_16 
+REMARK       I    between atoms: CZ_16  and  NH1_17 
+REMARK    7  A    between atoms: N1_19  and  CA1_20 
+REMARK    8  A    between atoms: CA1_20  and  C1_22 
+REMARK    9  A    between atoms: CA1_20  and  CB1_24 
+REMARK       I    between atoms: C1_22  and  N2_34 
+REMARK   10  A    between atoms: N2_34  and  CA2_35 
+REMARK   11  A    between atoms: CA2_35  and  C2_37 
+REMARK   12  A    between atoms: CA2_35  and  CB2_39 
+REMARK   13  A    between atoms: CB2_39  and  CG3_42 
+REMARK   14  A    between atoms: N3_52  and  CA3_53 
+REMARK   15  A    between atoms: CA3_53  and  C3_55 
+REMARK   16  A    between atoms: CA3_53  and  CB3_57 
+REMARK       I    between atoms: C3_55  and  N4_71 
+REMARK   17  A    between atoms: CB3_57  and  CG4_60 
+REMARK   18  A    between atoms: N4_71  and  CA4_72 
+REMARK   19  A    between atoms: CA4_72  and  C4_74 
+REMARK   20  A    between atoms: CA4_72  and  CB4_76 
+REMARK       I    between atoms: C4_74  and  N5_85 
+REMARK   21  A    between atoms: CB4_76  and  CG5_79 
+REMARK   22  A    between atoms: CG5_79  and  CD3_82 
+REMARK   23  A    between atoms: N5_85  and  CA5_86 
+REMARK   24  A    between atoms: CA5_86  and  C5_88 
+REMARK       I    between atoms: C5_88  and  N6_94 
+REMARK   25  A    between atoms: N6_94  and  CA6_95 
+REMARK   26  A    between atoms: CA6_95  and  C6_97 
+REMARK   27  A    between atoms: CA6_95  and  CB6_99 
+REMARK       I    between atoms: C6_97  and  N7_112 
+REMARK   28  A    between atoms: CB6_99  and  CG6_102 
+REMARK   29  A    between atoms: CG6_102  and  CD4_105 
+ROOT
+HETATM    1  N   0Q4 A 125      30.238  -8.963  15.472  1.00 21.27    -0.067 N 
+HETATM    2  H   0Q4 A 125      31.167  -9.084  15.045  1.00 15.00     0.275 HD
+HETATM    3  H2  0Q4 A 125      30.227  -8.131  16.115  1.00 15.00     0.275 HD
+HETATM    4  HN3 0Q4 A 125      30.003  -9.817  16.001  1.00 15.00     0.275 HD
+ENDROOT
+BRANCH   1   5
+HETATM    5  CA  0Q4 A 125      29.195  -8.687  14.437  1.00 21.76     0.274 C 
+BRANCH   5   6
+HETATM    6  C   0Q4 A 125      29.882  -8.075  13.174  1.00 21.89     0.249 C 
+HETATM    7  O   0Q4 A 125      31.124  -8.064  13.078  1.00 22.48    -0.271 OA
+HETATM    8  N1  0Q4 A 125      29.073  -7.641  12.194  1.00 19.10    -0.346 N 
+HETATM    9  H1  0Q4 A 125      28.098  -7.646  12.298  1.00 15.00     0.163 HD
+BRANCH   8  10
+HETATM   10  CA1 0Q4 A 125      29.567  -7.096  10.929  1.00 18.90     0.180 C 
+BRANCH  10  11
+HETATM   11  C1  0Q4 A 125      29.388  -5.557  10.848  1.00 17.14     0.241 C 
+HETATM   12  O1  0Q4 A 125      29.381  -4.841  11.841  1.00 18.87    -0.271 OA
+HETATM   13  N2  0Q4 A 125      29.123  -5.066   9.650  1.00 17.78    -0.350 N 
+HETATM   14  HN2 0Q4 A 125      29.046  -5.671   8.879  1.00 15.00     0.163 HD
+BRANCH  13  15
+HETATM   15  CA2 0Q4 A 125      29.001  -3.636   9.438  1.00 17.96     0.123 C 
+BRANCH  15  16
+HETATM   16  C2  0Q4 A 125      27.619  -3.033   9.653  1.00 17.56     0.081 C 
+HETATM   17  N3  0Q4 A 125      27.285  -2.799  10.909  1.00 16.64    -0.387 N 
+HETATM   18  H3  0Q4 A 125      27.928  -3.031  11.606  1.00 15.00     0.159 HD
+BRANCH  17  19
+HETATM   19  CA3 0Q4 A 125      26.014  -2.184  11.310  1.00 16.89     0.177 C 
+BRANCH  19  20
+HETATM   20  C3  0Q4 A 125      26.405  -0.892  12.079  1.00 15.06     0.241 C 
+HETATM   21  O2  0Q4 A 125      27.592  -0.620  12.273  1.00 12.51    -0.271 OA
+HETATM   22  N4  0Q4 A 125      25.411  -0.063  12.404  1.00 14.54    -0.346 N 
+HETATM   23  H4  0Q4 A 125      24.480  -0.326  12.236  1.00 15.00     0.163 HD
+BRANCH  22  24
+HETATM   24  CA4 0Q4 A 125      25.631   1.228  13.060  1.00 15.81     0.177 C 
+BRANCH  24  25
+HETATM   25  C4  0Q4 A 125      26.776   2.075  12.496  1.00 17.52     0.241 C 
+HETATM   26  O3  0Q4 A 125      26.730   2.565  11.366  1.00 17.50    -0.271 OA
+HETATM   27  N5  0Q4 A 125      27.873   2.109  13.233  1.00 19.61    -0.346 N 
+HETATM   28  H5  0Q4 A 125      27.920   1.613  14.080  1.00 15.00     0.163 HD
+BRANCH  27  29
+HETATM   29  CA5 0Q4 A 125      29.025   2.879  12.815  1.00 21.82     0.172 C 
+HETATM   30  CB5 0Q4 A 125      29.753   3.365  14.054  1.00 22.24     0.042 C 
+BRANCH  29  31
+HETATM   31  C5  0Q4 A 125      30.034   2.171  11.875  1.00 24.09     0.240 C 
+HETATM   32  O4  0Q4 A 125      30.947   1.467  12.311  1.00 20.88    -0.271 OA
+HETATM   33  N6  0Q4 A 125      29.864   2.431  10.583  1.00 27.66    -0.346 N 
+HETATM   34  H6  0Q4 A 125      29.140   3.029  10.329  1.00 15.00     0.163 HD
+BRANCH  33  35
+HETATM   35  CA6 0Q4 A 125      30.744   1.941   9.531  1.00 31.09     0.176 C 
+BRANCH  35  36
+HETATM   36  C6  0Q4 A 125      30.781   3.043   8.458  1.00 33.78     0.238 C 
+HETATM   37  O5  0Q4 A 125      29.961   4.006   8.503  1.00 34.60    -0.271 OA
+HETATM   38  N7  0Q4 A 125      31.632   2.903   7.546  1.00 36.53    -0.368 N 
+HETATM   39  H72 0Q4 A 125      32.293   2.128   7.510  1.00  0.00     0.159 HD
+HETATM   40  H71 0Q4 A 125      31.656   3.634   6.835  1.00  0.00     0.159 HD
+ENDBRANCH  35  36
+BRANCH  35  41
+HETATM   41  CB6 0Q4 A 125      30.138   0.643   8.937  1.00 32.55     0.035 C 
+BRANCH  41  42
+HETATM   42  CG6 0Q4 A 125      28.814   0.774   8.104  1.00 32.73     0.002 C 
+BRANCH  42  43
+HETATM   43  CD4 0Q4 A 125      28.830   0.015   6.719  1.00 31.59    -0.004 C 
+HETATM   44  CE  0Q4 A 125      30.232  -0.046   6.149  1.00 23.29     0.005 C 
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  35  41
+ENDBRANCH  33  35
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  24  25
+BRANCH  24  45
+HETATM   45  CB4 0Q4 A 125      25.853   0.997  14.582  1.00 17.07     0.045 C 
+BRANCH  45  46
+HETATM   46  CG5 0Q4 A 125      24.940   0.006  15.277  1.00 18.50     0.116 C 
+BRANCH  46  47
+HETATM   47  CD3 0Q4 A 125      23.790   0.678  16.041  1.00 26.68     0.172 C 
+HETATM   48  OE1 0Q4 A 125      23.155   0.006  16.875  1.00 29.71    -0.648 OA
+HETATM   49  OE2 0Q4 A 125      23.506   1.885  15.821  1.00 31.35    -0.648 OA
+ENDBRANCH  46  47
+ENDBRANCH  45  46
+ENDBRANCH  24  45
+ENDBRANCH  22  24
+ENDBRANCH  19  20
+BRANCH  19  50
+HETATM   50  CB3 0Q4 A 125      25.222  -3.254  12.119  1.00 18.22     0.073 C 
+BRANCH  50  51
+HETATM   51  CG4 0Q4 A 125      24.476  -4.236  11.304  1.00 21.59    -0.056 A 
+HETATM   52  CD1 0Q4 A 125      25.049  -5.453  10.960  1.00 22.99     0.007 A 
+HETATM   53  CE1 0Q4 A 125      24.326  -6.416  10.219  1.00 24.00     0.001 A 
+HETATM   54  CZ1 0Q4 A 125      23.013  -6.152   9.813  1.00 25.64     0.000 A 
+HETATM   55  CE2 0Q4 A 125      22.430  -4.930  10.144  1.00 27.27     0.001 A 
+HETATM   56  CD2 0Q4 A 125      23.173  -3.970  10.895  1.00 24.65     0.007 A 
+ENDBRANCH  50  51
+ENDBRANCH  19  50
+ENDBRANCH  17  19
+ENDBRANCH  15  16
+BRANCH  15  57
+HETATM   57  CB2 0Q4 A 125      29.592  -3.263   8.057  1.00 19.32     0.034 C 
+BRANCH  57  58
+HETATM   58  CG3 0Q4 A 125      31.141  -3.144   8.009  1.00 21.12    -0.020 C 
+HETATM   59  CD1 0Q4 A 125      31.743  -2.624   9.314  1.00 21.22     0.009 C 
+HETATM   60  CD2 0Q4 A 125      31.755  -4.487   7.659  1.00 17.47     0.009 C 
+ENDBRANCH  57  58
+ENDBRANCH  15  57
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  61
+HETATM   61  CB1 0Q4 A 125      28.922  -7.900   9.687  1.00 19.28     0.009 C 
+HETATM   62  CG1 0Q4 A 125      29.669  -9.206   9.405  1.00 20.08     0.012 C 
+HETATM   63  CG2 0Q4 A 125      27.449  -8.255   9.974  1.00 19.54     0.012 C 
+ENDBRANCH  10  61
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  64
+HETATM   64  CB  0Q4 A 125      28.125  -7.767  15.039  1.00 21.80     0.044 C 
+BRANCH  64  65
+HETATM   65  CG  0Q4 A 125      28.572  -6.835  16.216  1.00 26.69     0.023 C 
+BRANCH  65  66
+HETATM   66  CD  0Q4 A 125      29.751  -5.848  15.903  1.00 29.76     0.138 C 
+BRANCH  66  67
+HETATM   67  NE  0Q4 A 125      29.449  -4.827  14.890  1.00 32.26    -0.227 N 
+HETATM   68  CZ  0Q4 A 125      29.056  -3.580  15.161  1.00 34.72     0.665 C 
+HETATM   69  NH1 0Q4 A 125      28.935  -3.196  16.421  1.00 35.07    -0.235 N 
+HETATM   70  NH2 0Q4 A 125      28.666  -2.755  14.178  1.00 35.86    -0.235 N 
+HETATM   71 HH11 0Q4 A 125      29.140  -3.833  17.162  1.00 15.00     0.174 HD
+HETATM   72 HH12 0Q4 A 125      28.641  -2.263  16.634  1.00 15.00     0.174 HD
+HETATM   73 HH21 0Q4 A 125      28.666  -3.062  13.228  1.00 15.00     0.174 HD
+HETATM   74 HH22 0Q4 A 125      28.373  -1.824  14.406  1.00 15.00     0.174 HD
+HETATM   75  HE  0Q4 A 125      29.538  -5.069  13.942  1.00 15.00     0.177 HD
+ENDBRANCH  66  67
+ENDBRANCH  65  66
+ENDBRANCH  64  65
+ENDBRANCH   5  64
+ENDBRANCH   1   5
+TORSDOF 29
+ENDMDL

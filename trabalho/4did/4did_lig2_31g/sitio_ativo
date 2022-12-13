@@ -1,0 +1,6 @@
+4DID
+Estrutura cristalina do domínio N-terminal do efetor de Salmonella SopB em complexo com Cdc42
+
+ATOM    922  OD2 ASP A 118      21.640  -0.443  10.529  1.00 53.99           O
+
+./vina --receptor 4did_cadeia_a_protonada.pdbqt --ligand ligante_31g.pdbqt --center_x 21.640 --center_y -0.443 --center_z 10.529 --size_x 22.5 --size_y 22.5 --size_z 22.5 --num_modes 50 --exhaustiveness 24 --out ligante_31g_out.pdbqt
