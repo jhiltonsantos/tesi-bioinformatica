@@ -1,0 +1,840 @@
+MODEL 1
+REMARK VINA RESULT:      -5.4      0.000      0.000
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      25.070  -6.255  10.738  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      24.808  -4.751  10.793  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      23.306  -4.478  10.849  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      22.592  -5.179   9.700  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      22.944  -6.664   9.689  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      24.370  -6.825   9.629  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      25.479  -4.144  11.931  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      26.078  -2.950  11.875  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      26.716  -2.476  13.144  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      26.104  -2.285  10.845  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      25.493  -4.654  12.814  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      23.074  -3.076  10.781  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      23.565  -2.638  11.467  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      22.374  -7.397   8.497  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      21.193  -6.770   8.016  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      20.417  -7.266   8.247  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      21.183  -5.035   9.841  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      20.903  -4.205   9.474  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.8      2.128      2.741
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      25.120  -7.083  10.501  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      25.974  -5.819  10.576  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      25.143  -4.650  11.101  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      23.877  -4.480  10.271  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      23.108  -5.797  10.208  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      23.962  -6.834   9.700  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      27.144  -6.028  11.413  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      28.384  -6.139  10.923  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      29.472  -6.347  11.931  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      28.614  -6.076   9.720  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      27.014  -6.093  12.423  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      25.917  -3.457  11.055  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      25.390  -2.724  11.352  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      21.908  -5.736   9.293  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      20.932  -4.820   9.773  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      20.059  -5.191   9.738  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      23.044  -3.481  10.851  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      23.312  -2.621  10.552  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.4      9.859     10.564
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      32.282  -3.957   2.938  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      30.808  -4.067   3.322  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      30.401  -5.536   3.433  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      30.755  -6.286   2.156  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      32.229  -6.085   1.818  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      32.521  -4.682   1.729  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      30.539  -3.368   4.568  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      29.382  -2.747   4.821  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      29.274  -2.081   6.159  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      28.466  -2.723   4.006  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      31.266  -3.351   5.282  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      29.001  -5.624   3.675  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      28.541  -5.731   2.851  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      32.620  -6.696   0.493  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      31.524  -6.721  -0.412  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      31.818  -6.789  -1.313  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      30.500  -7.677   2.322  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      31.112  -8.184   1.803  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.3      1.642      2.889
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      24.245  -2.652  10.904  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      25.448  -3.297  11.591  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      25.836  -4.588  10.873  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      24.633  -5.516  10.754  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      23.465  -4.782  10.103  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      23.166  -3.588  10.844  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      26.576  -2.381  11.638  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      27.106  -1.932  12.781  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      28.269  -0.999  12.643  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      26.665  -2.265  13.876  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      26.983  -2.067  10.757  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      26.879  -5.237  11.591  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      26.539  -6.020  12.009  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      22.196  -5.602  10.072  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      21.077  -4.816   9.682  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      21.311  -4.187   9.010  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      24.969  -6.651   9.964  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      25.912  -6.764   9.942  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.2      8.737      9.925
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      29.881  -0.680   4.567  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      30.575  -1.816   3.817  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      29.856  -3.138   4.078  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      29.725  -3.388   5.576  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      29.068  -2.190   6.254  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      29.810  -0.996   5.959  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      30.633  -1.542   2.390  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      31.724  -1.066   1.781  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      31.608  -0.847   0.304  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      32.757  -0.824   2.397  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      29.801  -1.721   1.827  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      30.579  -4.202   3.471  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      30.170  -4.435   2.645  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      29.025  -2.314   7.759  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      28.015  -3.222   8.178  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      27.895  -3.199   9.120  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      28.934  -4.548   5.809  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      29.001  -4.810   6.720  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.2      9.712     10.283
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      32.069  -3.344   2.756  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      31.047  -2.333   3.273  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      30.191  -2.962   4.371  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      29.567  -4.263   3.882  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      30.647  -5.194   3.340  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      31.396  -4.526   2.314  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      31.703  -1.132   3.764  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      31.897  -0.045   3.010  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      32.585   1.105   3.679  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      31.533   0.006   1.839  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      32.030  -1.117   4.730  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      29.170  -2.050   4.760  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      28.617  -1.855   4.013  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      30.085  -6.451   2.719  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      30.714  -6.745   1.478  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      31.420  -6.137   1.294  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      28.887  -4.910   4.953  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      29.490  -5.464   5.433  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.1      8.824      9.602
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      32.064  -3.157   4.752  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      30.606  -2.748   4.545  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      29.717  -3.987   4.462  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      30.236  -4.947   3.399  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      31.707  -5.266   3.651  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      32.466  -4.048   3.708  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      30.155  -1.867   5.610  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      29.733  -0.617   5.395  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      29.298   0.148   6.608  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      29.704  -0.126   4.271  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      30.160  -2.220   6.567  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      28.384  -3.597   4.154  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      27.793  -4.324   4.314  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      32.323  -6.110   2.560  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      31.532  -6.093   1.379  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      30.655  -6.419   1.542  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      29.485  -6.156   3.426  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      29.830  -6.767   2.785  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.1      2.761      4.684
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      25.247  -7.263  10.549  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      26.691  -6.806  10.742  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      26.734  -5.539  11.596  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      25.829  -4.466  11.004  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      24.422  -5.018  10.800  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      24.476  -6.199   9.985  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      27.496  -7.855  11.347  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      28.264  -8.687  10.637  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      29.031  -9.706  11.424  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      28.336  -8.621   9.414  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      27.474  -7.960  12.361  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      28.072  -5.059  11.669  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      28.518  -5.469  12.401  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      23.503  -4.047  10.095  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      23.256  -2.894  10.889  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      23.882  -2.820  11.600  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      25.768  -3.344  11.879  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      24.873  -3.201  12.161  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.1      5.185      6.833
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      28.788  -8.985  12.072  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      28.411  -8.048  10.926  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      27.970  -8.855   9.706  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      29.034  -9.879   9.330  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      29.386 -10.741  10.539  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      29.792  -9.903  11.632  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      27.365  -7.123  11.330  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      27.295  -5.861  10.891  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      26.146  -5.049  11.407  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      28.122  -5.398  10.113  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      26.650  -7.451  11.979  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      27.735  -7.975   8.613  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      26.876  -8.147   8.244  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      30.528 -11.693  10.273  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      31.281 -11.297   9.135  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      30.838 -10.616   8.643  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      28.555 -10.717   8.284  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      27.870 -11.287   8.611  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -4.0     11.331     12.787
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      14.831   3.015   8.307  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      15.790   3.210   7.134  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      17.228   3.314   7.640  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      17.343   4.396   8.706  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      16.321   4.154   9.813  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      15.003   4.075   9.251  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      15.666   2.128   6.171  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      15.343   2.324   4.889  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      15.264   1.095   4.036  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      15.125   3.445   4.438  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      15.833   1.173   6.489  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      18.095   3.612   6.551  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      18.280   4.544   6.538  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      16.290   5.261  10.840  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      17.386   5.168  11.741  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      17.150   5.471  12.609  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      18.651   4.390   9.268  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      18.839   5.233   9.662  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:      -4.0      9.503     11.507
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      31.689   2.064   4.464  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      31.247   0.603   4.518  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      29.976   0.466   5.354  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      30.171   1.094   6.728  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      30.656   2.533   6.585  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      31.853   2.567   5.792  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      31.038   0.071   3.181  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      31.864  -0.811   2.608  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      31.492  -1.257   1.227  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      32.866  -1.227   3.179  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      30.221   0.384   2.656  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      29.644  -0.911   5.493  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      30.168  -1.296   6.185  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      30.995   3.177   7.910  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      29.865   3.828   8.476  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      29.063   3.582   8.032  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      28.941   1.086   7.446  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      29.060   1.488   8.298  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:      -4.0     12.528     13.465
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      13.256   3.966   4.898  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      14.243   3.551   5.987  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      15.514   2.981   5.360  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      15.172   1.858   4.388  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      14.148   2.341   3.364  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      12.990   2.853   4.040  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      14.563   4.670   6.857  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      14.704   4.550   8.182  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      15.040   5.807   8.924  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      14.567   3.473   8.754  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      14.686   5.592   6.438  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      16.372   2.491   6.383  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      15.915   1.833   6.895  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      13.666   1.242   2.448  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      13.851  -0.042   3.031  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      13.924  -0.718   2.368  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      16.346   1.430   3.706  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      17.116   1.805   4.117  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:      -4.0      9.262     11.015
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      30.783   0.134   7.834  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      30.769   0.680   6.407  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      31.388   2.076   6.369  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      30.705   2.991   7.377  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      30.721   2.352   8.763  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      30.117   1.051   8.706  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      31.470  -0.213   5.499  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      30.859  -0.883   4.515  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      31.736  -1.755   3.671  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      29.652  -0.788   4.318  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      32.475  -0.335   5.617  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      31.261   2.617   5.059  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      31.981   2.313   4.518  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      29.945   3.146   9.788  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      29.107   4.115   9.171  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      28.224   4.083   9.519  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      31.378   4.244   7.433  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      32.315   4.113   7.343  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:      -3.9      9.641     10.392
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      16.537   2.291  11.177  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      17.809   3.016  10.743  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      17.513   3.941   9.563  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      16.837   3.170   8.437  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      15.606   2.439   8.964  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      15.977   1.592  10.063  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      18.386   3.766  11.846  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      19.567   3.465  12.396  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      20.011   4.348  13.522  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      20.245   2.521  12.003  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      17.865   4.560  12.218  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      18.727   4.518   9.096  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      18.739   4.507   8.145  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      14.960   1.548   7.928  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      15.852   1.257   6.862  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      15.522   0.555   6.313  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      16.441   4.065   7.403  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      17.005   4.829   7.401  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:      -3.9      8.088      9.218
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      30.460  -0.998   7.162  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      30.740  -0.080   5.974  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      29.822  -0.434   4.805  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      29.934  -1.916   4.469  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      29.688  -2.759   5.717  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      30.594  -2.363   6.758  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      30.578   1.317   6.343  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      31.602   2.105   6.689  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      31.253   3.520   7.035  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      32.756   1.693   6.720  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      29.639   1.715   6.339  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      30.174   0.348   3.670  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      29.945   1.257   3.827  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      29.911  -4.235   5.485  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      28.773  -4.848   4.893  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      28.911  -5.019   3.969  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      28.976  -2.264   3.475  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      29.145  -3.141   3.154  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:      -3.9      6.784      8.390
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      30.549  -2.621   7.465  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      29.683  -3.785   6.989  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      29.632  -3.816   5.463  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      29.191  -2.465   4.915  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      30.076  -1.355   5.475  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      30.059  -1.397   6.910  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      30.176  -5.050   7.509  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      29.710  -5.611   8.630  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      30.329  -6.920   9.015  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      28.829  -5.084   9.302  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      30.911  -5.533   6.993  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      28.730  -4.831   5.037  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      27.983  -4.859   5.624  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      29.613   0.027   5.076  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      29.817   0.264   3.689  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      29.317  -0.343   3.156  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      29.281  -2.462   3.494  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      28.506  -2.061   3.120  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:      -3.9      9.731     10.178
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      19.496  -7.016  20.789  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      20.398  -6.018  20.066  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      19.557  -4.923  19.412  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      18.486  -5.534  18.518  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      17.663  -6.552  19.302  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      18.530  -7.542  19.874  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      21.371  -5.438  20.977  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      22.686  -5.428  20.733  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      23.543  -4.783  21.779  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      23.161  -5.919  19.714  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      21.035  -5.018  21.843  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      20.399  -4.069  18.647  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      20.108  -4.063  17.742  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      16.665  -7.293  18.442  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      17.176  -7.527  17.137  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      18.111  -7.369  17.095  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      17.623  -4.515  18.025  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      17.552  -4.578  17.080  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:      -3.8      7.450      8.573
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      31.248  -0.837   4.936  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      30.542  -0.188   6.125  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      29.958  -1.262   7.042  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      29.069  -2.213   6.252  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      29.834  -2.779   5.058  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      30.341  -1.704   4.252  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      31.449   0.675   6.865  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      31.077   1.848   7.388  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      32.140   2.605   8.124  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      29.934   2.278   7.272  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      32.414   0.371   6.991  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      29.205  -0.643   8.079  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      28.280  -0.674   7.863  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      28.973  -3.630   4.155  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      28.703  -4.899   4.737  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      27.911  -4.880   5.261  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      28.643  -3.287   7.084  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      27.732  -3.170   7.325  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:      -3.8      7.957     10.114
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      30.798   0.355   4.718  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      30.307  -0.792   5.599  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      29.315  -0.271   6.638  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      29.922   0.885   7.424  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      30.429   1.961   6.469  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      31.356   1.387   5.535  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      29.702  -1.844   4.800  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      29.836  -3.145   5.082  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      29.140  -4.093   4.154  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      30.490  -3.537   6.043  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      29.149  -1.579   3.985  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      28.957  -1.325   7.524  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      28.026  -1.500   7.452  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      31.160   3.079   7.175  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      30.265   3.908   7.905  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      30.364   3.787   8.841  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      28.944   1.451   8.289  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      29.355   2.065   8.886  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
+MODEL 20
+REMARK VINA RESULT:      -3.7     10.100     10.891
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_4  and  N2_20 
+REMARK    2  A    between atoms: C3_6  and  O3_22 
+REMARK    3  A    between atoms: C4_8  and  O4_24 
+REMARK    4  A    between atoms: C5_10  and  C6_12 
+REMARK    5  A    between atoms: C6_12  and  O6_27 
+REMARK       I    between atoms: C7_15  and  N2_20 
+ROOT
+HETATM    1  C1  NAG A 700      17.816  -3.844  18.406  1.00237.24     0.196 C 
+HETATM    2  C2  NAG A 700      18.496  -4.986  19.158  1.00284.04     0.139 C 
+HETATM    3  C3  NAG A 700      17.886  -6.326  18.749  1.00318.04     0.174 C 
+HETATM    4  C4  NAG A 700      16.373  -6.298  18.923  1.00298.92     0.180 C 
+HETATM    5  C5  NAG A 700      15.779  -5.104  18.182  1.00297.28     0.176 C 
+HETATM    6  O5  NAG A 700      16.405  -3.893  18.631  1.00257.71    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 700      19.931  -4.986  18.921  1.00326.77    -0.352 N 
+HETATM    8  C7  NAG A 700      20.828  -5.288  19.866  1.00328.74     0.214 C 
+HETATM    9  C8  NAG A 700      22.265  -5.244  19.446  1.00328.56     0.117 C 
+HETATM   10  O7  NAG A 700      20.492  -5.583  21.009  1.00327.57    -0.274 OA
+HETATM   11  H2  NAG A 700      20.270  -4.745  17.990  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 700      18.447  -7.366  19.541  1.00322.86    -0.391 OA
+HETATM   13  H3  NAG A 700      18.143  -8.208  19.223  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 700      14.296  -4.941  18.419  1.00300.81     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 700      13.533  -5.683  17.477  1.00307.66    -0.398 OA
+HETATM   16  H6  NAG A 700      12.621  -5.419  17.482  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 700      15.802  -7.497  18.410  1.00303.14    -0.390 OA
+HETATM   18  H4  NAG A 700      15.734  -8.146  19.100  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 5
+ENDMDL
